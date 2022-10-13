@@ -20,8 +20,6 @@ def createPwd(char_length, include_special = False, include_upper = False):
             
     print(f"your password is: {''.join(password)}")
 
-
-
-createPwd(8, include_special = True, include_upper = False)    
+  
 
   
