@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+PwdGen2022.egg-info/PKG-INFO
+PwdGen2022.egg-info/SOURCES.txt
+PwdGen2022.egg-info/dependency_links.txt
+PwdGen2022.egg-info/top_level.txt
+pwd_gen/__init__.py
+pwd_gen/password.py

@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: PwdGen2022
+Version: 0.0.5
+Summary: Simple password generator
+Author: Hugo Milesi
+Author-email: hugogmilesi@gmail.com
+License: MIT
+Keywords: password
+Platform: UNKNOWN
+Requires-Python: >= 3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# pwd_generator
+
+## Description. 
+The package pwd_generator is used to:
+	- Create passwords. 
+	- Can be created with special characters or not.
+	- Can be created with upper characters or not.
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install pwd_generator
+```
+
+## Usage
+
+```python
+from pwd_generator import pass_gen
+createPwd(pass_lenght, include_special, include_upper)
+```
+## Where:
+- **pass_lenght**: Sets the size of your password.
+- **include_special(default = False)**: Set to True if you want pecial characters(#,@...)
+- **include_Upper(default  = False)**: Set to True if you wante uppercase latters.
+
+## Author
+Hugo Milesi
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+

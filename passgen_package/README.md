@@ -10,14 +10,14 @@ The package pwd_generator is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install pwd_generator
+pip install PwdGen2022
 ```
 
 ## Usage
 
 ```python
-from pwd_generator import pass_gen
-createPwd(pass_lenght, include_special, include_upper)
+from pwd_gen import password
+password.createPwd(pass_lenght, include_special, include_upper)
 ```
 ## Where:
 - **pass_lenght**: Sets the size of your password.
