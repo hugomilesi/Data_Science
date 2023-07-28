@@ -49,7 +49,7 @@ Se retornar ``` "IndexStatus": "ACTIVE"```, significa que o GSI ja está pronto 
 ## Query com o Global Secondary Index
 
 
-Procura os dadosdo jogador de nome "ShockyBalboa"
+Recupera os dadosdo jogador de nome "ShockyBalboa"
  ```
  aws dynamodb query ^
     --table-name PlayerProgression ^
@@ -58,23 +58,100 @@ Procura os dadosdo jogador de nome "ShockyBalboa"
     --expression-attribute-values  "{\":name\":{\"S\":\"ShockyBalboa\"}}"
 
  ``` 
+ **Output:**
+```json
+{
+    "Items": [
+        {
+            "Level": {
+                "N": "30"
+            },
+            "Currency": {
+                "N": "7500"
+            },
+            "PlayerName": {
+                "S": "ShockyBalboa"
+            },
+            "CharacterClass": {
+                "S": "Paladin"
+            },
+            "PlayerID": {
+                "S": "player456"
+            }
+        }
+    ],
+    "Count": 1,
+    "ScannedCount": 1,
+    "ConsumedCapacity": null
+}
 
- Procura dados do jogador que possui um char de classe Necromancer.
+```
+---
+
+ Recupera dados do jogador que possui um char de classe Necromancer.
  ```
  aws dynamodb query ^
     --table-name PlayerProgression ^
     --index-name char_class-index ^
     --key-condition-expression "CharacterClass = :name" ^
     --expression-attribute-values  "{\":name\":{\"S\":\"Necromancer\"}}"
-
  ```
-
+**Output:**
+ ```json
+ {
+    "Items": [
+        {
+            "Level": {
+                "N": "10"
+            },
+            "Currency": {
+                "N": "1500"
+            },
+            "PlayerName": {
+                "S": "Shiftycent"
+            },
+            "CharacterClass": {
+                "S": "Necromancer"
+            },
+            "PlayerID": {
+                "S": "player123"
+            }
+        }
+    ],
+    "Count": 1,
+    "ScannedCount": 1,
+    "ConsumedCapacity": null
+}
+ ```
+---
 Recupera dados do jogador com id de "player123" e level  = 10
 ```
 aws dynamodb get-item ^
     --table-name PlayerProgression ^
     --key "{\"PlayerID\": {\"S\": \"player123\"}, \"Level\": {\"N\": \"10\"}}"
 
+```
+**Output:**
+```json
+{
+    "Item": {
+        "Currency": {
+            "N": "1500"
+        },
+        "Level": {
+            "N": "10"
+        },
+        "PlayerName": {
+            "S": "Shiftycent"
+        },
+        "CharacterClass": {
+            "S": "Necromancer"
+        },
+        "PlayerID": {
+            "S": "player123"
+        }
+    }
+}
 ```
 
  
