@@ -86,3 +86,30 @@ CREATE TABLE UserActivity (
     ShareCount INT DEFAULT 0,
     FOREIGN KEY (UserID) REFERENCES Users(UserID)
 );
+
+
+#  -- Algumas Queries -- 
+
+#1) Selecionando os usuários
+SELECT * FROM Users;
+
+# 2) selecionando os valores do usuário de id = 4
+SELECT PostID, UserID, Content, PostDate FROM Posts WHERE UserID = 4;
+
+# 3) Exibindo o numero de like cada user id pussui.
+SELECT PostID, COUNT(LikeID) AS TotalLikes FROM Likes GROUP BY PostID ORDER BY TotalLikes DESC;
+
+#4) juntando a tabela usuários e comentários para recuperar os comentários associados a cada usuário.
+SELECT c.CommentID, u.UserName, c.CommentText FROM Comments c
+JOIN Users u ON c.UserID = u.UserID;
+
+# 5) join entre várias tabelas para coletar detalhes dos posts com likes, comentários e seus respectivos usuários.
+SELECT p.PostID, p.Content, p.PostDate, u.UserName, 
+       COUNT(l.LikeID) AS TotalLikes, COUNT(c.CommentID) AS TotalComments
+FROM Posts p
+JOIN Users u ON p.UserID = u.UserID
+LEFT JOIN Likes l ON p.PostID = l.PostID
+LEFT JOIN Comments c ON p.PostID = c.PostID
+GROUP BY p.PostID, p.Content, p.PostDate, u.UserName;
+
+

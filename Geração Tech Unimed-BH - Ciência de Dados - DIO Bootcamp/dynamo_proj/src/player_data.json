@@ -1,0 +1,37 @@
+{
+    "PlayerProgression": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "PlayerID": {"S": "player123"},
+                  "PlayerName": {"S": "Shiftycent"},
+                  "Level": {"N": "10"},
+                  "CharacterClass": {"S": "Necromancer"},
+                  "Currency": {"N": "1500"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "PlayerID": {"S": "player456"},
+                  "PlayerName": {"S": "ShockyBalboa"},
+                  "Level": {"N": "30"},
+                  "CharacterClass": {"S": "Paladin"},
+                  "Currency": {"N": "7500"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "PlayerID": {"S": "player895"},
+                  "PlayerName": {"S": "Internet the Explorer"},
+                  "Level": {"N": "20"},
+                  "CharacterClass": {"S": "Death Knight"},
+                  "Currency": {"N": "25000"}
+                }
+            }
+        }
+      ]
+}
