@@ -1,3 +1,7 @@
+# Recursos Utilizados
+- Amazon DynamoDB
+- Amazon CLI
+
 # Criando a tabela
 
 ```
@@ -13,14 +17,14 @@ aws dynamodb create-table ^
         ReadCapacityUnits=10,WriteCapacityUnits=5
 ```
 
-### Inserindo Multiplos Valores na tabela
+- ### Inserindo Multiplos Valores na tabela
 
 ```
 aws dynamodb batch-write-item ^
     --request-items file://src/player_data.json
 ```
 
-### Criando um GSI para PlayerName
+- ### Criando um GSI para PlayerName
 
 ```
 aws dynamodb update-table ^
@@ -30,7 +34,7 @@ aws dynamodb update-table ^
 
 ```
 
-### Criando um GSI para CharacterClass
+- ### Criando um GSI para CharacterClass
 
 ```
 aws dynamodb update-table ^
@@ -46,10 +50,9 @@ aws dynamodb describe-table --table-name PlayerProgression | findstr IndexStatus
 ```
 Se retornar ``` "IndexStatus": "ACTIVE"```, significa que o GSI ja está pronto para uso.
 
-## Query com o Global Secondary Index
+# Criando algumas consultas
 
-
-Recupera os dadosdo jogador de nome "ShockyBalboa"
+- Recupera os dadosdo jogador de nome "ShockyBalboa"
  ```
  aws dynamodb query ^
     --table-name PlayerProgression ^
@@ -88,7 +91,7 @@ Recupera os dadosdo jogador de nome "ShockyBalboa"
 ```
 ---
 
- Recupera dados do jogador que possui um char de classe Necromancer.
+ - Recupera dados do jogador que possui um char de classe Necromancer.
  ```
  aws dynamodb query ^
     --table-name PlayerProgression ^
@@ -124,7 +127,7 @@ Recupera os dadosdo jogador de nome "ShockyBalboa"
 }
  ```
 ---
-Recupera dados do jogador com id de "player123" e level  = 10
+- Recupera dados do jogador com id de "player123" e level  = 10
 ```
 aws dynamodb get-item ^
     --table-name PlayerProgression ^
