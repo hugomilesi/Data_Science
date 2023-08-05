@@ -1,0 +1,842 @@
+name,type,required_age,is_free,recommendations,price_overview,metacritic_score,developer,publisher,positive,negative,genre,ccu
+Counter-Strike,game,0.0,False,137378,14.5,88.0,Valve,Valve,216345,5530,Action,10775
+Team Fortress Classic,game,0.0,False,5474,7.5,0.0,Valve,Valve,6472,990,Action,77
+Day of Defeat,game,0.0,False,3694,7.5,79.0,Valve,Valve,5686,634,Action,89
+Deathmatch Classic,game,0.0,False,1924,7.5,0.0,Valve,Valve,2242,490,Action,8
+Half-Life: Opposing Force,game,0.0,False,15478,7.5,0.0,Gearbox Software,Valve,17468,890,Action,162
+Ricochet,game,0.0,False,3647,7.5,0.0,Valve,Valve,4302,952,Action,9
+Half-Life,game,0.0,False,74518,14.5,96.0,Valve,Valve,87726,3191,Action,925
+Counter-Strike: Condition Zero,game,0.0,False,16877,14.5,65.0,Valve,Valve,21155,2023,Action,451
+Half-Life: Blue Shift,game,0.0,False,11577,7.5,71.0,Gearbox Software,Valve,12547,1126,Action,74
+Half-Life 2,game,0.0,False,130813,14.5,96.0,Valve,Valve,164166,4137,Action,1289
+Counter-Strike: Source,game,0.0,False,105367,14.5,88.0,Valve,Valve,150846,5879,Action,3922
+Half-Life: Source,game,0.0,False,11512,14.5,0.0,Valve,Valve,9546,3881,Action,78
+Day of Defeat: Source,game,0.0,False,13172,14.5,80.0,Valve,Valve,18275,1709,Action,432
+Half-Life 2: Deathmatch,game,0.0,False,7925,7.5,0.0,Valve,Valve,10733,1132,Action,198
+Half-Life 2: Lost Coast,game,0.0,False,9086,0.0,0.0,Valve,Valve,10513,1317,Action,20
+Half-Life Deathmatch: Source,game,0.0,False,3071,14.5,0.0,Valve,Valve,2723,936,Action,15
+Half-Life 2: Episode One,game,0.0,False,20742,11.79,87.0,Valve,Valve,24577,1087,Action,213
+Portal,game,0.0,False,115319,14.5,90.0,Valve,Valve,133848,2048,Action,745
+Half-Life 2: Episode Two,game,0.0,False,27975,11.5,90.0,Valve,Valve,33820,1024,Action,280
+Team Fortress 2,game,0.0,True,19943,0.0,92.0,Valve,Valve,909911,59944,Action/ Free to Play,120722
+Left 4 Dead,game,0.0,False,40976,14.5,89.0,Valve,Valve,47590,1844,Action,711
+Left 4 Dead 2,game,17.0,False,563972,14.5,89.0,Valve,Valve,742846,18804,Action,33123
+Dota 2,game,0.0,True,14328,0.0,90.0,Valve,Valve,1659573,355797,Action/ Free to Play/ Strategy,524317
+Portal 2,game,0.0,False,288115,14.5,95.0,Valve,Valve,347464,4398,Action/ Adventure,3175
+Alien Swarm,game,0.0,True,309,0.0,77.0,Valve,Valve,19567,1053,Action,66
+Counter Strike(GO),game,0.0,True,3871754,0.0,83.0,Valve/ Hidden Path Entertainment,Valve,6547618,828205,Action/ Free to Play,1088407
+Killing Floor,game,0.0,False,36525,28.95,72.0,Tripwire Interactive,Tripwire Interactive,61382,3249,Action,286
+Source Filmmaker,game,0.0,True,240,0.0,0.0,Valve,Valve,30957,2237,Animation & Modeling/ Video Production,1394
+Dark Messiah of Might & Magic,game,0.0,False,6957,1.87,72.0,Arkane Studios,Ubisoft,8365,786,Action/ RPG,63
+DOOM (1993),game,0.0,False,13327,7.45,0.0,id Software,id Software,14810,493,Action,82
+Quake,game,0.0,False,10235,14.95,94.0,id Software/ Nightdive Studios/ MachineGames,Bethesda Softworks,11574,440,Action,127
+The Ship: Murder Party,game,0.0,False,2545,14.5,76.0,Outerlight Ltd.,Blazing Griffin,5074,839,Action/ Indie/ RPG,6
+Plants vs. Zombies GOTY Edition,game,0.0,False,98402,7.5,87.0,PopCap Games/ Inc.,PopCap Games/ Inc./ Electronic Arts,104900,2737,Strategy,6203
+Psychonauts,game,0.0,False,9640,14.5,87.0,Double Fine Productions,Double Fine Productions,15109,757,Action,65
+Garry's Mod,game,0.0,False,841357,14.5,0.0,Facepunch Studios,Valve,949375,32403,Indie/ Simulation,35466
+S.T.A.L.K.E.R.: Shadow of Chernobyl,game,0.0,False,27947,28.95,82.0,GSC Game World,GSC Game World,33889,1980,Action/ RPG,431
+Company of Heroes - Legacy Edition,game,15.0,False,4200,23.99,93.0,Relic Entertainment,SEGA,6106,414,Action/ Strategy,103
+Total War: MEDIEVAL II – Definitive Edition,game,0.0,False,20939,9.37,0.0,Creative Assembly,SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),27078,1158,Strategy,4584
+Natural Selection 2,game,0.0,False,8195,7.5,80.0,Unknown Worlds Entertainment,Unknown Worlds Entertainment,10873,1862,Action/ Indie/ Strategy,142
+Star Wars: Battlefront 2 (Classic/ 2005),game,0.0,False,42753,14.5,78.0,Pandemic Studios,Lucasfilm/ LucasArts/ Disney,47071,2816,Action,289
+Hitman 2: Silent Assassin,game,15.0,False,2343,12.95,87.0,Io-Interactive A/S,Io-Interactive A/S,2742,526,Action,16
+Hitman: Blood Money,game,15.0,False,9556,13.95,82.0,Io-Interactive A/S,Io-Interactive A/S,10811,665,Action,110
+Just Cause,game,15.0,False,3778,9.95,75.0,Avalanche Studios,Square Enix,2963,1485,Action,9
+Hitman: Codename 47,game,15.0,False,2565,11.95,73.0,IO Interactive A/S,IO Interactive A/S,2330,875,Action,18
+Deus Ex: Game of the Year Edition,game,15.0,False,11176,1.39,90.0,Ion Storm,Eidos Interactive Corp.,12120,649,Action,90
+Deus Ex: Invisible War,game,15.0,False,1745,1.39,80.0,Ion Storm,Eidos Interactive Corp.,1142,855,Action,6
+X-COM: UFO Defense,game,0.0,False,2719,7.99,0.0,MicroProse Software/ Inc,2K,3239,180,Strategy,63
+Just Cause 2,game,15.0,False,39184,17.95,84.0,Avalanche Studios,Square Enix,44972,4535,Action/ Adventure,197
+Sam & Max 104: Abe Lincoln Must Die!,game,0.0,False,0,0.0,0.0,Telltale Games,Telltale Games,399,68,Action/ Adventure,1
+EVE Online,game,0.0,True,7289,0.0,88.0,CCP,CCP,23261,8136,Action/ Free to Play/ Massively Multiplayer/ RPG/ Strategy,5650
+BioShock Infinite,game,0.0,False,98946,9.98,94.0,Irrational Games/ Virtual Programming (Linux),2K,124600,8128,Action,462
+Borderlands Game of the Year,game,0.0,False,19006,13.18,81.0,Gearbox Software,2K,27895,2886,Action/ RPG,185
+Company of Heroes: Opposing Fronts,game,0.0,False,661,23.99,87.0,Relic Entertainment,SEGA,921,82,Action/ Strategy,33
+Supreme Commander: Forged Alliance,game,0.0,False,7994,15.5,81.0,Gas Powered Games,Square Enix,11447,370,Strategy,1283
+Saints Row 2,game,0.0,False,10416,3.73,72.0,Volition,Deep Silver,14217,4378,Action,125
+Champions Online,game,0.0,True,180,0.0,72.0,Cryptic Studios,Gearbox Publishing,2797,1121,Free to Play/ Massively Multiplayer/ RPG,189
+Star Trek Online,game,0.0,True,846,0.0,66.0,Cryptic Studios,Gearbox Publishing,14270,3824,Free to Play/ Massively Multiplayer/ RPG,1336
+Call of Duty: World at War,game,0.0,False,38461,29.95,83.0,Treyarch,Activision,41605,3733,Action,619
+Total War: EMPIRE – Definitive Edition,game,0.0,False,16703,9.37,90.0,Creative Assembly,SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),28025,2800,Strategy,3592
+TrackMania Nations Forever,game,0.0,True,173,0.0,0.0,Nadeo,Ubisoft,19198,2254,Racing,370
+Grand Theft Auto III,game,0.0,False,10536,0.0,93.0,Rockstar Games,Rockstar Games,11812,1848,Action,59
+Grand Theft Auto: Vice City,game,0.0,False,22910,0.0,94.0,Rockstar Games,Rockstar Games,25596,2045,Action,220
+Grand Theft Auto: San Andreas,game,0.0,False,67837,0.0,93.0,Rockstar Games,Rockstar Games,72910,6477,Action,683
+Bully: Scholarship Edition,game,0.0,False,24008,19.99,72.0,Rockstar New England,Rockstar Games,23464,4244,Action/ Adventure,283
+Grand Theft Auto IV: The Complete Edition,game,0.0,False,111209,29.95,90.0,Rockstar North/ Rockstar Toronto,Rockstar Games,103992,26203,Action/ Adventure,2682
+Grand Theft Auto: Episodes from Liberty City,game,0.0,False,7461,0.0,0.0,Rockstar North / Toronto,Rockstar Games,7606,2699,Action,0
+Overlord II,game,0.0,False,3312,14.5,79.0,Triumph Studios,Codemasters/ Electronic Arts,3694,471,RPG,64
+AudioSurf,game,0.0,False,8447,14.5,85.0,Dylan Fitterer,Pixel After Pixel,10189,444,Indie,15
+Warhammer 40/000: Dawn of War II,game,0.0,False,5937,23.99,85.0,Relic Entertainment/ Feral Interactive (Mac/Linux),SEGA/ Feral Interactive (Mac/Linux),9740,1189,Strategy,237
+Tribes: Ascend,game,0.0,True,0,0.0,86.0,Hi-Rez Studios,Hi-Rez Studios,6884,1661,Action/ Free to Play,1
+Crysis,game,0.0,False,11443,39.95,91.0,Crytek,Electronic Arts,10213,2615,Action,28
+Mass Effect (2007),game,0.0,False,14463,39.95,89.0,BioWare,Electronic Arts,15120,1004,Action/ RPG,54
+Dead Space (2008),game,0.0,False,19613,29.95,87.0,EA Redwood Shores,Electronic Arts,23291,2150,Action/ Adventure,96
+Command & Conquer: Red Alert 3,game,0.0,False,11310,29.95,82.0,EA Los Angeles,Electronic Arts,10664,1809,Strategy,818
+Alice: Madness Returns,game,15.0,False,11641,29.95,75.0,Spicy Horse Games,Electronic Arts,12040,1460,Action/ Adventure,171
+Red Faction Guerrilla Steam Edition,game,0.0,False,6010,0.0,82.0,Volition/ Reactor Zero/ THQ Nordic,Deep Silver,6755,731,Action,10
+S.T.A.L.K.E.R.: Clear Sky,game,0.0,False,13396,14.5,75.0,GSC Game World,GSC World Publishing,14974,2495,Action/ RPG,292
+The Witcher: Enhanced Edition Director's Cut,game,0.0,False,68751,13.59,86.0,CD PROJEKT RED,CD PROJEKT RED/ 1C-SoftClub,65610,8391,Action/ RPG,1107
+The Witcher 2: Assassins of Kings Enhanced Edition,game,0.0,False,70928,27.19,88.0,CD PROJEKT RED,CD PROJEKT RED/ 1C-SoftClub,71679,8356,RPG,1025
+F.E.A.R. 3,game,17.0,False,5693,28.95,74.0,Day 1 Studios,Warner Bros. Interactive Entertainment,8006,3148,Action,41
+F.E.A.R.,game,15.0,False,9082,78.95,88.0,Monolith Productions/ Inc./ Timegate,Warner Bros. Games/ Warner Bros. Interactive Entertainment,0,0,Action,15
+F.E.A.R.,game,15.0,False,9082,78.95,88.0,Monolith Productions/ Inc./ Timegate,Warner Bros. Games/ Warner Bros. Interactive Entertainment,0,0,Action,13
+F.E.A.R.,game,15.0,False,9082,78.95,88.0,Monolith Productions/ Inc./ Timegate,Warner Bros. Games/ Warner Bros. Interactive Entertainment,0,0,Action,15
+F.E.A.R.,game,15.0,False,9082,78.95,88.0,Monolith Productions/ Inc./ Timegate,Warner Bros. Games/ Warner Bros. Interactive Entertainment,0,0,Action,13
+Resident Evil 5,game,15.0,False,26420,7.48,86.0,Capcom,Capcom,32136,4585,Action/ Adventure,716
+World of Goo,game,0.0,False,3823,21.5,90.0,2D BOY,2D BOY ,5046,307,Indie,12
+BRINK,game,0.0,True,1915,0.0,70.0,Splash Damage,Bethesda Softworks,4657,2848,Action/ Free to Play,17
+Fallout 3: Game of the Year Edition,game,0.0,False,32030,29.95,91.0,Bethesda Game Studios,Bethesda Softworks,32976,8163,RPG,904
+Fallout: New Vegas,game,14.0,False,145242,14.95,84.0,Obsidian Entertainment,Bethesda Softworks,175815,6468,Action/ RPG,6995
+Burnout Paradise: The Ultimate Box,game,0.0,False,8723,0.0,87.0,Criterion Games,Electronic Arts,11499,1700,Racing,36
+Mass Effect 2 (2010 Edition),game,0.0,False,13267,0.0,94.0,BioWare,Electronic Arts,14607,904,RPG,31
+Braid,game,0.0,False,6193,21.5,90.0,Number None,Number None,8520,556,Casual/ Indie/ Strategy,16
+Lord of the Rings: War in the North,game,0.0,False,3379,0.0,66.0,Snowblind Studios,Warner Bros. Interactive Entertainment,7228,1748,Action/ RPG,41
+Assassin's Creed 2,game,17.0,False,40733,4.99,86.0,Ubisoft Montreal,Ubisoft,39099,4563,Action/ Adventure,643
+Arma 2,game,0.0,False,1823,18.5,77.0,Bohemia Interactive,Bohemia Interactive,1778,350,Action/ Simulation/ Strategy,2
+Arma 2: Operation Arrowhead,game,0.0,False,15840,28.95,73.0,Bohemia Interactive,Bohemia Interactive,20113,1660,Action/ Simulation/ Strategy,299
+Total War: NAPOLEON – Definitive Edition,game,0.0,False,13374,9.37,81.0,CREATIVE ASSEMBLY/ Feral Interactive (Mac),SEGA/ Feral Interactive (Mac),19473,1908,Strategy,2031
+SEGA Mega Drive and Genesis Classics,game,0.0,False,6660,0.0,0.0,D3T Limited,SEGA,8773,1617,Action/ Adventure/ Casual/ RPG,86
+Sniper: Ghost Warrior 2,game,0.0,False,12293,2.9,52.0,City Interactive,CI Games,12687,4231,Action,78
+Batman: Arkham Asylum Game of the Year Edition,game,0.0,False,36558,4.99,91.0,Rocksteady Studios,Warner Bros. Interactive Entertainment,50654,1950,Action/ Adventure,674
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,game,0.0,False,23376,28.95,76.0,Tripwire Interactive,Tripwire Interactive,33730,2768,Action/ Massively Multiplayer/ Simulation,237
+Trine Enchanted Edition,game,0.0,False,11311,5.37,80.0,Frozenbyte,Frozenbyte,13531,583,Action/ Adventure/ Indie,77
+Trine 2: Complete Story,game,0.0,False,14359,7.23,84.0,Frozenbyte,Frozenbyte,19966,933,Action/ Adventure/ Indie,77
+Fallout: A Post Nuclear Role Playing Game,game,0.0,False,10519,14.95,89.0,Interplay Inc.,Bethesda Softworks,15470,1039,RPG,193
+Fallout 2: A Post Nuclear Role Playing Game,game,0.0,False,9669,14.95,86.0,Black Isle Studios,Bethesda Softworks,11308,703,RPG,257
+Fallout Tactics: Brotherhood of Steel,game,0.0,False,1735,14.95,82.0,14° East,Bethesda Softworks,1683,443,Strategy,27
+Moonbase Alpha,game,0.0,True,174,0.0,0.0,Virtual Heroes/ Army Game Studio,NASA,11438,1226,Adventure/ Simulation/ Strategy,6
+RIFT,game,0.0,True,939,0.0,84.0,gamigo US Inc.,gamigo US Inc.,8043,2758,Free to Play/ Massively Multiplayer/ RPG,166
+FINAL FANTASY VII,game,8.0,False,20547,17.95,0.0,Square Enix,Square Enix,22055,1675,RPG,483
+FINAL FANTASY XIV Online,game,12.0,False,61588,28.95,83.0,Square Enix,Square Enix,59374,7748,Massively Multiplayer/ RPG,29950
+Supreme Commander 2,game,0.0,False,7258,18.5,77.0,Gas Powered Games,Square Enix,10033,1340,Strategy,326
+Super Meat Boy,game,0.0,False,23908,21.5,87.0,Team Meat,Electronic Arts,30658,1711,Indie,151
+Stronghold HD,game,0.0,False,7124,8.49,81.0,FireFly Studios,FireFly Studios,8166,387,Simulation/ Strategy,619
+Stronghold Crusader HD,game,0.0,False,13188,13.99,78.0,FireFly Studios,FireFly Studios,15461,388,Simulation/ Strategy,1653
+Mafia,game,0.0,False,7076,19.99,88.0,Illusion Softworks,2K,10846,1612,Action/ Adventure,170
+Serious Sam HD: The First Encounter,game,0.0,False,5698,21.5,68.0,Croteam,Devolver Digital,6645,448,Action/ Indie,36
+Serious Sam 3: BFE,game,0.0,False,19531,43.95,72.0,Croteam,Devolver Digital,22978,3012,Action/ Indie,112
+Torchlight,game,0.0,False,4620,21.5,83.0,Runic Games,Gearbox Publishing,5784,539,RPG,59
+S.T.A.L.K.E.R.: Call of Pripyat,game,0.0,False,19598,28.95,80.0,GSC Game World,GSC Game World,23967,1195,Action/ RPG,358
+Magicka,game,0.0,False,17439,14.5,74.0,Arrowhead Game Studios,Paradox Interactive,25974,3555,Action/ RPG,68
+Victoria II,game,0.0,False,14408,28.95,75.0,Paradox Development Studio,Paradox Interactive,16176,1337,Strategy,920
+Dragon Age: Origins - Ultimate Edition,game,0.0,False,18932,39.95,91.0,BioWare,Electronic Arts,18690,2143,RPG,855
+Need For Speed: Hot Pursuit,game,0.0,False,17268,0.0,86.0,Criterion Games,Electronic Arts,16265,3476,Racing,52
+LIMBO,game,0.0,False,27449,14.99,88.0,Playdead,Playdead,44593,3221,Action/ Adventure/ Indie,138
+Mount & Blade: Warband,game,0.0,False,119467,27.95,78.0,TaleWorlds Entertainment,TaleWorlds Entertainment,149159,3434,Action/ RPG,4938
+Borderlands 2,game,14.0,False,188674,6.48,89.0,Gearbox Software/ Aspyr (Mac)/ Aspyr (Linux),2K/ Aspyr (Mac)/ Aspyr (Linux),258269,17070,Action/ RPG,4397
+Aliens: Colonial Marines Collection,game,0.0,False,6519,34.99,45.0,Gearbox Software,SEGA,6194,4229,Action,42
+Mafia II (Classic),game,15.0,False,30081,0.0,77.0,2K Czech,2K,47868,2558,Action,290
+Spec Ops: The Line,game,15.0,False,26004,29.95,76.0,YAGER,2K/ Missing Link Games,47518,3508,Action/ Adventure,71
+Homefront,game,0.0,False,3186,5.99,70.0,Kaos Studios/ Digital Extremes,Deep Silver,7212,4738,Action,21
+Warhammer 40/000: Space Marine - Anniversary Edition,game,18.0,False,10959,75.0,74.0,Relic Entertainment,SEGA,20853,1843,Action,183
+Saints Row: The Third,game,15.0,False,46659,7.47,84.0,Volition,Deep Silver,64180,2759,Action,313
+Warhammer 40/000: Dawn of War II: Retribution,game,0.0,False,6665,33.99,0.0,Relic Entertainment/ Feral Interactive (Mac/Linux),SEGA/ Feral Interactive (Mac/Linux),10253,1060,Strategy,0
+Amnesia: The Dark Descent,game,0.0,False,16983,8.85,85.0,Frictional Games,Frictional Games,29559,1662,Action/ Adventure/ Indie,92
+Tropico 4,game,0.0,False,7684,22.95,78.0,Haemimont Games,Kalypso Media Digital,10941,992,Simulation/ Strategy,123
+Sniper Elite V2,game,0.0,False,5712,0.0,66.0,Rebellion,Rebellion,21896,2918,Action,78
+ARMA: Cold War Assault,game,0.0,False,1900,7.5,0.0,Bohemia Interactive,Bohemia Interactive,4550,1219,Action/ Simulation/ Strategy,27
+Dungeon Defenders,game,0.0,False,10245,21.5,81.0,Chromatic Games,Chromatic Games,15247,1151,Action/ Indie/ RPG/ Strategy,440
+The Bureau: XCOM Declassified,game,15.0,False,4509,29.95,66.0,2K Marin,2K,7971,3418,Action,20
+The Darkness II,game,15.0,False,6228,39.99,77.0,Digital Extremes,2K,16727,1561,Action,22
+Dino D-Day,game,0.0,False,7891,14.5,53.0,800 North and Digital Ranch,800 North and Digital Ranch,12593,2421,Action/ Indie,4
+Sonic Generations Collection,game,0.0,False,17119,23.99,77.0,Devil's Details,SEGA,20167,1459,Action,140
+The Elder Scrolls V: Skyrim,game,0.0,False,180426,29.95,94.0,Bethesda Game Studios,Bethesda Softworks,297394,16086,RPG,3279
+The Tiny Bang Story,game,0.0,False,3414,7.5,63.0,Colibri Games,Colibri Games,5389,759,Adventure/ Casual/ Indie,16
+Defy Gravity Extended,game,0.0,False,6840,0.97,0.0,Paul Fisch,Fish Factory Games,7407,1204,Action/ Casual/ Indie,8
+Spiral Knights,game,0.0,True,188,0.0,64.0,Grey Havens,Grey Havens,19304,3671,Action/ Adventure/ Casual/ Free to Play/ Indie/ Massively Multiplayer/ RPG,165
+Orcs Must Die!,game,0.0,False,5750,14.5,83.0,Robot Entertainment,Robot Entertainment,7171,270,Action/ Indie/ Strategy,22
+ORION: Prelude,game,0.0,False,19334,1.5,0.0,DANKIE,DANKIE,21664,7137,Action/ Adventure/ Indie/ RPG,9
+Terraria,game,0.0,False,927084,14.25,83.0,Re-Logic,Re-Logic,1137066,26474,Action/ Adventure/ Indie/ RPG,51374
+Bastion,game,0.0,False,26473,21.95,86.0,Supergiant Games,Supergiant Games,34416,1616,Action/ Indie/ RPG,39
+Cthulhu Saves the World,game,0.0,False,2873,4.5,78.0,Zeboyd Digital Entertainment LLC,Zeboyd Digital Entertainment LLC,3085,265,Indie/ RPG,5
+Arma 3,game,0.0,False,188773,44.95,74.0,Bohemia Interactive,Bohemia Interactive,225056,23724,Action/ Simulation/ Strategy,15877
+Project Zomboid,game,0.0,False,165227,29.5,0.0,The Indie Stone,The Indie Stone,201944,13534,Indie/ RPG/ Simulation/ Early Access,33105
+Alan Wake,game,0.0,False,28336,21.5,83.0,Remedy Entertainment,Remedy Entertainment,35705,3609,Action/ Adventure,169
+Crysis 2 - Maximum Edition,game,0.0,False,8789,39.95,0.0,Crytek Studios,Electronic Arts,11198,1976,Action,53
+Neverwinter,game,0.0,True,307,0.0,74.0,Cryptic Studios,Gearbox Publishing,28176,8214,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG,1514
+L.A. Noire,game,15.0,False,24578,29.95,83.0,Team Bondi/ Rockstar Leeds,Rockstar Games,25483,4346,Adventure/ Strategy,308
+Monaco: What's Yours Is Mine,game,0.0,False,3723,4.3,83.0,Pocketwatch Games,Humble Games,7684,784,Action/ Adventure/ Casual/ Indie/ Strategy,22
+The Binding of Isaac,game,0.0,False,42980,7.5,84.0,Edmund McMillen/ Florian Himsl,Edmund McMillen,53367,2640,Action/ Adventure/ Indie/ RPG,281
+APB Reloaded,game,0.0,True,370,0.0,0.0,Reloaded Productions,Little Orbit,23189,13276,Action/ Free to Play/ Massively Multiplayer,300
+Worms Revolution,game,0.0,False,5111,21.5,73.0,Team17 Digital Ltd,Team17 Digital Ltd,7069,1057,Strategy,97
+Realm of the Mad God Exalt,game,0.0,True,202,0.0,82.0,Wild Shadow Studios/ Deca Games,Deca Games,36795,7357,Action/ Free to Play/ Indie/ Massively Multiplayer/ RPG,1855
+Batman: Arkham City - Game of the Year Edition,game,0.0,False,37795,7.23,91.0,Rocksteady Studios,Warner Bros. Interactive Entertainment,51530,2187,Action/ Adventure,901
+XCOM: Enemy Unknown,game,15.0,False,35387,39.95,89.0,Firaxis Games/ Feral Interactive (Linux),2K/ Feral Interactive (Linux),49180,2936,Strategy,1018
+Torchlight II,game,0.0,False,30567,28.95,88.0,Runic Games,Gearbox Publishing,39259,2992,Action/ Adventure/ Indie/ RPG,397
+Total War: SHOGUN 2,game,0.0,False,29595,11.24,90.0,Creative Assembly,SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),51304,4738,Strategy,1
+Orcs Must Die! 2,game,15.0,False,12132,21.5,83.0,Robot Entertainment,Robot Entertainment,17296,1175,Action/ Adventure/ Indie/ RPG/ Strategy,101
+Wolfenstein: The New Order,game,17.0,False,35746,29.95,81.0,MachineGames,Bethesda Softworks,45064,4394,Action,389
+Sleeping Dogs,game,15.0,False,9932,0.0,80.0,United Front Games,Square Enix,15892,922,Action/ Adventure,34
+Alan Wake's American Nightmare,game,0.0,False,5253,12.95,73.0,Remedy Entertainment,Remedy Entertainment,5101,2081,Action/ Adventure,22
+Tomb Raider,game,15.0,False,137135,21.95,86.0,Crystal Dynamics/ Eidos-Montréal/ Feral Interactive (Mac)/ Nixxes,Crystal Dynamics/ Feral Interactive (Mac),215351,8592,Action/ Adventure,2235
+America's Army: Proving Grounds,game,0.0,True,135,0.0,0.0,U.S. Army,U.S. Army,8375,2264,Action/ Free to Play,201
+Crusader Kings II,game,0.0,True,30553,0.0,82.0,Paradox Development Studio,Paradox Interactive,63537,6945,Free to Play/ RPG/ Simulation/ Strategy,2750
+Max Payne 3,game,0.0,False,38770,29.95,87.0,Rockstar Studios,Rockstar Games,40212,6680,Action,298
+Awesomenauts - the 2D moba,game,0.0,True,11781,0.0,78.0,Ronimo Games,Ronimo Games,22471,4061,Action/ Free to Play/ Indie/ Strategy,147
+Serious Sam 2,game,0.0,False,9131,14.5,74.0,Croteam,Devolver Digital,9839,1122,Action/ Indie,54
+Call of Juarez: Gunslinger,game,0.0,False,14964,21.5,79.0,Techland,Techland Publishing,32302,1671,Action,112
+Dishonored,game,0.0,False,55973,14.95,91.0,Arkane Studios,Bethesda Softworks,72411,1787,Action/ Adventure,589
+Hell Yeah! Wrath of the Dead Rabbit,game,0.0,False,562,18.99,64.0,Arkedo,SEGA,3056,514,Action,1
+Gotham City Impostors Free to Play,game,0.0,False,427,0.0,0.0,Monolith Productions/ Inc.,Warner Bros. Interactive Entertainment,10109,1784,Action/ Free to Play,11
+Saints Row IV: Re-Elected,game,15.0,False,56453,8.48,86.0,Deep Silver Volition,Deep Silver,67565,8799,Action/ Adventure,248
+To the Moon,game,0.0,False,52750,14.5,81.0,Freebird Games,Freebird Games,66048,2467,Adventure/ Indie/ RPG,93
+AirMech Strike,game,0.0,True,0,0.0,0.0,Carbon Games,Carbon Games,8588,1634,Action/ Free to Play/ Indie/ Strategy,28
+SpeedRunners,game,0.0,False,21423,21.95,84.0,DoubleDutch Games,tinyBuild,32801,2129,Action/ Casual/ Indie/ Racing/ Sports,287
+The Walking Dead,game,15.0,False,37971,17.95,82.0,Telltale Games,Skybound Games,60715,1798,Adventure,244
+Loadout,game,17.0,False,1182,0.0,72.0,Edge of Reality,Edge of Reality,34478,5201,Action/ Free to Play/ Indie,0
+Guns of Icarus Online,game,0.0,False,8258,7.5,64.0,Muse Games,Muse Games,13184,1454,Action/ Adventure/ Indie/ Simulation,5
+Cortex Command,game,0.0,False,1883,28.95,44.0,Data Realms,Data Realms/ LLC,4216,1664,Action/ Indie/ Strategy,11
+Blacklight: Retribution,game,0.0,False,154,0.0,75.0,Hardsuit Labs/ Inc.,Hardsuit Labs/ Inc.,12447,3978,Action/ Free to Play,1
+Sanctum 2,game,0.0,False,7170,21.5,77.0,Coffee Stain Studios,Coffee Stain Publishing,12602,1397,Action/ Indie/ Strategy,41
+The Witness,game,0.0,False,12502,56.95,87.0,Thekla/ Inc.,Thekla/ Inc.,13302,2356,Adventure/ Indie,164
+RaceRoom Racing Experience,game,0.0,True,1828,0.0,0.0,KW Studios,KW Studios/ RaceRoom Entertainment AG,14116,5009,Free to Play/ Racing/ Simulation/ Sports,896
+Starbound,game,0.0,False,117779,21.5,81.0,Chucklefish,Chucklefish,149428,11844,Action/ Adventure/ Casual/ Indie/ RPG,1840
+Star Conflict,game,0.0,True,203,0.0,75.0,Star Gem Inc.,Gaijin Distribution KFT,10637,3709,Action/ Free to Play/ Massively Multiplayer/ Simulation,172
+Vindictus,game,0.0,True,0,0.0,76.0,devCAT,NEXON Korea Corp. &amp; NEXON America Inc.,5140,2382,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG,211
+FTL: Faster Than Light,game,0.0,False,53878,14.5,84.0,Subset Games,Subset Games,65452,2961,Indie/ Simulation/ Strategy,1330
+TERA - Action MMORPG,game,0.0,False,232,0.0,77.0,Bluehole/ Inc.,Gameforge 4D GmbH,6001,1694,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG,1
+Gear Up,game,0.0,True,970,0.0,0.0,Doctor Entertainment AB,Doctor Entertainment AB,6323,2157,Action/ Free to Play/ Indie,3
+Alien: Isolation,game,0.0,False,37329,11.99,81.0,Creative Assembly/ Feral Interactive (Mac)/ Feral Interactive (Linux),SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),48112,3652,Action,271
+Mark of the Ninja,game,0.0,False,11663,0.0,91.0,Klei Entertainment,Microsoft Studios,15264,472,Action/ Adventure/ Indie,11
+Total War: ROME II - Emperor Edition,game,0.0,False,47798,22.49,76.0,CREATIVE ASSEMBLY,SEGA,64593,14155,Strategy,7454
+WAKFU,game,0.0,True,145,0.0,76.0,Ankama Studio,Ankama Games,6949,2336,Action/ Adventure/ Casual/ Free to Play/ Indie/ Massively Multiplayer/ RPG/ Strategy,367
+Secret World Legends,game,0.0,True,4344,0.0,76.0,Funcom,Funcom,5830,2866,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG,73
+MapleStory,game,0.0,True,103,0.0,0.0,Nexon,Nexon America Inc.,7465,3652,Action/ Adventure/ Casual/ Free to Play/ Massively Multiplayer/ RPG,5919
+PlanetSide 2,game,0.0,True,595,0.0,84.0,Rogue Planet Games,Daybreak Game Company,57225,12964,Action/ Free to Play/ Massively Multiplayer,1124
+PAYDAY 2,game,18.0,False,410472,14.99,79.0,OVERKILL - a Starbreeze Studio.,Starbreeze Publishing AB,563127,67646,Action/ RPG,38654
+Scribblenauts Unlimited,game,0.0,False,6872,29.95,75.0,5th Cell Media,Warner Bros. Interactive Entertainment,10037,678,Adventure/ Casual/ Strategy,65
+Hotline Miami,game,15.0,False,72108,14.5,85.0,Dennaton Games,Devolver Digital,83196,2285,Action/ Indie,250
+Chivalry: Medieval Warfare,game,0.0,False,45265,35.95,79.0,Torn Banner Studios,Torn Banner Studios,54547,11583,Action/ Indie,75
+Don't Starve,game,0.0,False,86655,14.5,79.0,Klei Entertainment,Klei Entertainment,99529,3355,Adventure/ Indie/ Simulation,3426
+Grim Dawn,game,0.0,False,70725,8.98,83.0,Crate Entertainment,Crate Entertainment,79394,5409,Action/ Adventure/ Indie/ RPG,3699
+Kerbal Space Program,game,0.0,False,94078,11.49,88.0,Squad,Private Division ,110114,5933,Indie/ Simulation,2352
+Far Cry 3,game,0.0,False,83811,7.48,88.0,Ubisoft Montreal/ Massive Entertainment/ and Ubisoft Shanghai,Ubisoft,83103,9364,Action/ Adventure,768
+DmC: Devil May Cry,game,0.0,False,16289,11.23,85.0,Ninja Theory,Capcom,24299,1726,Action/ Adventure,109
+Resident Evil 6,game,17.0,False,31634,11.23,69.0,Capcom,Capcom,35000,9000,Action/ Adventure,591
+DayZ,game,18.0,False,293628,39.99,0.0,Bohemia Interactive,Bohemia Interactive,260025,92525,Action/ Adventure/ Massively Multiplayer,49312
+Age of Empires II (2013),game,0.0,False,80169,28.95,68.0,Skybox Labs/ Hidden Path Entertainment/ Ensemble Studios/ Forgotten Empires,Xbox Game Studios,93478,4182,Strategy,3807
+The Stanley Parable,game,0.0,False,38265,21.5,88.0,Galactic Cafe,Galactic Cafe,40246,3301,Adventure/ Indie,42
+Resident Evil Revelations,game,15.0,False,7433,10.33,77.0,Capcom,Capcom,10192,1668,Action/ Adventure,91
+Insurgency,game,0.0,False,86215,21.5,74.0,New World Interactive,New World Interactive,114398,10246,Action/ Indie/ Strategy,431
+POSTAL 2,game,18.0,False,75153,14.5,59.0,Running With Scissors,Running With Scissors,84882,3148,Action/ Adventure/ Indie,458
+Cry of Fear,game,0.0,True,312,0.0,0.0,Team Psykskallar,Team Psykskallar,42110,6381,Action/ Adventure/ Indie,773
+DCS World Steam Edition,game,0.0,True,570,0.0,0.0,Eagle Dynamics SA,advocatus,24675,3930,Free to Play/ Simulation,1365
+No More Room in Hell,game,0.0,True,734,0.0,0.0,No More Room in Hell Team,Lever Games,61607,6952,Action/ Free to Play/ Indie,803
+Ace of Spades: Battle Builder,game,0.0,False,12806,0.0,49.0,Jagex Limited,Jagex Limited,12021,6474,Action/ Indie,0
+Defiance,game,15.0,False,2481,0.0,64.0,Trion Worlds,Trion Worlds,9678,2995,Action/ Free to Play/ Massively Multiplayer/ RPG,2
+FEZ,game,0.0,False,9678,14.5,91.0,Polytron Corporation,Trapdoor,12952,1047,Indie,34
+Brothers - A Tale of Two Sons,game,0.0,False,32894,21.5,90.0,Starbreeze Studios AB,505 Games,37753,2190,Action/ Adventure/ Indie,18
+Brutal Legend,game,0.0,False,9233,21.5,80.0,Double Fine Productions,Double Fine Productions,16398,1218,Action/ Adventure/ Strategy,45
+Infestation: Survivor Stories 2020,game,0.0,True,17381,0.0,0.0,Fredaikis AB,OP Productions LLC,10652,14846,Action/ Free to Play/ Indie/ Massively Multiplayer/ RPG,25
+Age of Wonders III,game,0.0,False,6616,42.95,80.0,Triumph Studios,Paradox Interactive,9618,2339,RPG/ Strategy,410
+Euro Truck Simulator 2,game,0.0,False,513058,28.95,79.0,SCS Software,SCS Software,647689,17157,Indie/ Simulation,35436
+Heroes & Generals,game,0.0,False,2430,0.0,0.0,TLM Partners,TLM Partners,96186,47244,Action/ Free to Play/ Indie/ Massively Multiplayer/ Strategy,5
+Company of Heroes,game,0.0,False,9181,23.99,93.0,Relic Entertainment,SEGA,13505,793,Action/ Strategy,1429
+Baldur's Gate: Enhanced Edition,game,0.0,False,11826,29.5,78.0,Beamdog,Beamdog,12314,1127,Adventure/ RPG,1229
+Wreckfest,game,0.0,False,25571,48.95,81.0,Bugbear,THQ Nordic,29631,4237,Action/ Indie/ Racing/ Simulation/ Sports,954
+Divinity: Original Sin (Classic),game,0.0,False,7945,0.0,87.0,Larian Studios,Larian Studios,10691,965,Adventure/ Indie/ RPG/ Strategy,30
+Universe Sandbox,game,0.0,False,18043,43.95,0.0,Giant Army,Giant Army,20138,794,Casual/ Indie/ Simulation/ Early Access,385
+Warframe,game,13.0,True,2911,0.0,69.0,Digital Extremes,Digital Extremes,469875,73740,Action/ Free to Play/ RPG,44354
+Ragnarok Online 2,game,0.0,True,0,0.0,0.0,Gravity/ Inc.,Gravity Interactive,1820,1285,Free to Play/ Massively Multiplayer/ RPG,4
+Company of Heroes 2,game,15.0,False,61468,23.99,80.0,Relic Entertainment/ Feral Interactive (Mac)/ Feral Interactive (Linux),SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),80295,21698,Strategy,5075
+Euro Truck Simulator,game,0.0,False,5626,7.45,0.0,SCS Software,SCS Software,5613,1168,Indie/ Simulation,17
+Eador. Masters of the Broken World,game,0.0,False,1549,28.95,74.0,Snowbird Games,Snowbird Games,1791,832,Indie/ RPG/ Strategy,43
+Killing Floor 2,game,0.0,False,75781,42.95,75.0,Tripwire Interactive,Tripwire Interactive,100712,14098,Action,2593
+POSTAL,game,18.0,True,2359,0.0,56.0,Running With Scissors,Running With Scissors,6410,804,Action/ Indie,30
+Stronghold Crusader 2,game,0.0,False,9970,54.99,0.0,FireFly Studios,FireFly Studios,10506,4288,Simulation/ Strategy,719
+Shadow Warrior,game,18.0,False,14453,43.95,73.0,Flying Wild Hog,Devolver Digital,22963,1909,Action/ Adventure,30
+Far Cry 3 - Blood Dragon,game,0.0,False,14171,5.73,81.0,Ubisoft Montreal,Ubisoft,13560,1779,Action/ Adventure,27
+Prison Architect,game,0.0,False,53925,42.95,83.0,Double Eleven/ Introversion Software,Paradox Interactive,59938,6719,Indie/ Simulation/ Strategy,1966
+Kenshi,game,0.0,False,60695,42.95,75.0,Lo-Fi Games,Lo-Fi Games,67969,3443,Action/ Indie/ RPG/ Simulation/ Strategy,6007
+Mad Max,game,15.0,False,43788,29.95,73.0,Avalanche Studios,Warner Bros. Games/ Warner Bros. Interactive Entertainment,63311,5634,Action/ Adventure,855
+Project CARS,game,0.0,False,8799,0.0,83.0,Slightly Mad Studios,Codemasters/ Slightly Mad Studios/ Electronic Arts,11234,2987,Racing/ Simulation/ Sports,85
+Shadowrun Returns,game,0.0,False,8912,21.5,76.0,Harebrained Schemes,Paradox Interactive,11357,1470,Adventure/ Indie/ RPG/ Strategy,56
+METAL GEAR RISING: REVENGEANCE,game,15.0,False,53082,42.95,83.0,PlatinumGames,Konami Digital Entertainment,65213,2781,Action,487
+Warhammer: End Times - Vermintide,game,0.0,False,12826,4.19,79.0,Fatshark,Fatshark,16300,4065,Action/ Indie,80
+Tom Clancy’s Splinter Cell Blacklist,game,0.0,False,15506,6.72,0.0,Ubisoft Toronto,Ubisoft,14453,3268,Action/ Adventure,125
+War Thunder,game,0.0,True,1841,0.0,81.0,Gaijin Entertainment,Gaijin Distribution KFT,308782,228794,Action/ Free to Play/ Massively Multiplayer/ Simulation,63337
+Europa Universalis IV,game,0.0,False,80708,56.95,87.0,Paradox Development Studio/ Paradox Tinto,Paradox Interactive,102549,15523,Simulation/ Strategy,19335
+Mortal Kombat Komplete Edition,game,18.0,False,11949,0.0,81.0,NetherRealm Studios/ High Voltage Software,Warner Bros. Interactive Entertainment,16177,1573,Action,105
+Elsword,game,0.0,True,0,0.0,0.0,KOG,KOG Games,6865,2352,Action/ Adventure/ Casual/ Free to Play/ Massively Multiplayer/ RPG,297
+Transistor,game,0.0,False,26306,29.5,83.0,Supergiant Games,Supergiant Games,27792,1676,Action/ Indie/ RPG,31
+Deus Ex: Human Revolution - Director's Cut,game,17.0,False,21760,2.99,91.0,Eidos Montreal,Eidos Interactive Corp.,23697,2020,Action/ RPG,275
+Sniper Elite 3,game,0.0,False,18011,4.29,0.0,Rebellion,Rebellion,20070,4344,Action/ Adventure,254
+Outlast,game,0.0,False,74001,4.42,80.0,Red Barrels,Red Barrels,99752,3750,Action/ Adventure/ Indie,463
+Magicka 2,game,0.0,False,7896,21.5,0.0,Pieces Interactive,Paradox Interactive,9650,2080,Action/ Adventure,90
+Contagion,game,0.0,False,9371,14.5,62.0,Monochrome/ Inc,Monochrome/ Inc,10802,4073,Action/ Adventure/ Indie,39
+Path of Exile,game,0.0,True,1064,0.0,86.0,Grinding Gear Games,Grinding Gear Games,179172,24313,Action/ Adventure/ Free to Play/ Indie/ Massively Multiplayer/ RPG,13528
+Papers/ Please,game,0.0,False,55206,14.5,85.0,Lucas Pope,3909,59261,1752,Adventure/ Indie,555
+Dying Light,game,18.0,False,285909,47.95,87.0,Techland,Techland,367850,18872,Action/ RPG,5015
+Thief,game,15.0,False,15619,4.04,70.0,Eidos-Montréal/ Feral Interactive (Mac),Eidos Interactive Corp./ Feral Interactive (Mac),16212,5650,Action/ Adventure,142
+Amnesia: A Machine for Pigs,game,0.0,False,5963,8.85,72.0,The Chinese Room,Frictional Games,7057,3104,Action/ Adventure/ Indie,17
+Spelunky,game,0.0,False,13606,21.5,90.0,Mossmouth,Mossmouth,14294,1214,Indie,104
+Game Dev Tycoon,game,0.0,False,36014,14.5,68.0,Greenheart Games,Greenheart Games,34126,1657,Casual/ Indie/ Simulation/ Strategy,212
+Panzar,game,0.0,True,0,0.0,0.0,Panzar Studio,OVALIS INVESTMENTS LIMITED,3324,1738,Action/ Free to Play/ Massively Multiplayer/ RPG,15
+Getting Over It with Bennett Foddy,game,0.0,False,57163,11.5,0.0,Bennett Foddy,Bennett Foddy,52161,11085,Action,693
+Rogue Legacy,game,0.0,False,15213,21.95,85.0,Cellar Door Games,Cellar Door Games,16805,1278,Action/ Adventure/ Indie/ RPG,68
+Styx: Master of Shadows,game,0.0,False,7657,28.95,71.0,Cyanide Studio,Cyanide Studio/ Nacon,7731,1586,Action,84
+Injustice: Gods Among Us Ultimate Edition,game,0.0,False,8975,29.95,79.0,NetherRealm Studios/ High Voltage Software,Warner Bros. Interactive Entertainment,15592,2540,Action,81
+GunZ 2: The Second Duel,game,0.0,True,0,0.0,0.0,Masangsoft/ Inc.,Masangsoft/ Inc.,7014,3600,Action/ Free to Play/ Indie,3
+The Forest,game,18.0,False,413025,28.95,83.0,Endnight Games Ltd,Endnight Games Ltd,465243,22200,Action/ Adventure/ Indie/ Simulation,5074
+Verdun,game,0.0,False,27804,7.37,70.0,M2H/ Blackmill Games,M2H,31354,5127,Action/ Indie/ Massively Multiplayer/ Simulation/ Strategy,95
+Banished,game,0.0,False,34906,28.95,73.0,Shining Rock Software LLC,Shining Rock Software LLC,36063,3911,Indie/ Simulation/ Strategy,865
+Assetto Corsa,game,0.0,False,77460,28.95,85.0,Kunos Simulazioni,Kunos Simulazioni,92966,7714,Indie/ Racing/ Simulation/ Sports,12241
+Men of War: Assault Squad 2,game,0.0,False,30114,43.95,68.0,Digitalmindsoft,Fulqrum Publishing,35477,3485,Action/ Simulation/ Strategy,1816
+Space Engineers,game,0.0,False,90168,28.95,0.0,Keen Software House,Keen Software House,107094,14115,Action/ Indie/ Simulation/ Strategy,7324
+SNOW - The Ultimate Edition,game,0.0,False,2209,19.99,0.0,Poppermost Productions/ WastedStudios/ Crytek,Crytek,7859,4168,Casual/ Indie/ Simulation/ Sports,3
+Skullgirls 2nd Encore,game,0.0,False,25732,35.95,83.0,Hidden Variable Studios,Autumn Games,27528,9987,Action/ Indie,219
+Tropico 5,game,0.0,False,9322,29.95,75.0,Haemimont Games,Kalypso Media Digital,10673,2916,RPG/ Simulation/ Strategy,207
+Plague Inc: Evolved,game,0.0,False,42980,21.5,0.0,Ndemic Creations,Ndemic Creations,45663,2666,Casual/ Indie/ Simulation/ Strategy,762
+Viscera Cleanup Detail,game,0.0,False,14050,18.5,0.0,RuneStorm,RuneStorm,17337,1250,Indie/ Simulation,301
+Crypt of the NecroDancer,game,0.0,False,20456,21.95,87.0,Brace Yourself Games,Brace Yourself Games/ Klei Entertainment,22136,931,Action/ Indie/ RPG,149
+Toribash,game,0.0,True,153,0.0,0.0,Nabi Studios,Nicalis/ Inc.,14152,1816,Action/ Free to Play/ Indie/ Strategy,110
+Risk of Rain,game,0.0,False,20090,14.5,77.0,Hopoo Games,Chucklefish,27188,1853,Action/ Indie/ RPG,139
+The Wolf Among Us,game,15.0,False,25247,11.47,85.0,Telltale,Telltale,30195,690,Action/ Adventure/ Casual,165
+How to Survive,game,0.0,False,13745,21.5,60.0,Eko Software,505 Games,13928,2923,Action/ Adventure/ RPG,29
+The Binding of Isaac: Rebirth,game,15.0,False,220987,19.99,0.0,Nicalis/ Inc./ Edmund McMillen,Nicalis/ Inc.,240839,5857,Action,16994
+Wargame: Red Dragon,game,0.0,False,13765,37.49,78.0,Eugen Systems,Eugen Systems,15479,1855,Indie/ Simulation/ Strategy,961
+7 Days to Die,game,0.0,False,185788,35.95,0.0,The Fun Pimps,The Fun Pimps Entertainment LLC,237345,31406,Action/ Adventure/ Indie/ RPG/ Simulation/ Strategy/ Early Access,54370
+Divide By Sheep,game,0.0,False,435,7.5,83.0,Victor Solodilov/ Denis Novikov,tinyBuild,2317,231,Adventure/ Casual/ Indie,1
+Grimm,game,0.0,False,256,0.0,0.0,Spicyhorse Games,Spicyhorse Games,30932,912,Casual/ Indie,6
+Rust,game,17.0,False,774811,39.99,69.0,Facepunch Studios,Facepunch Studios,824082,123399,Action/ Adventure/ Indie/ Massively Multiplayer/ RPG,124008
+theHunter Classic,game,0.0,True,581,0.0,0.0,Expansive Worlds/ Avalanche Studios,Expansive Worlds/ Avalanche Studios,22255,17337,Action/ Adventure/ Free to Play/ Simulation/ Sports,758
+Knights and Merchants,game,0.0,False,2336,4.97,0.0,Topware Interactive,Topware Interactive,3608,679,Simulation/ Strategy,96
+Enclave,game,0.0,False,1644,4.5,71.0,Starbreeze,Topware Interactive,4902,1287,Action/ RPG,6
+Resident Evil 4 (2005),game,17.0,False,51908,7.48,79.0,Capcom,Capcom,60951,4750,Action/ Adventure,605
+Cities: Skylines,game,0.0,False,176125,42.95,85.0,Colossal Order Ltd.,Paradox Interactive,221429,16057,Simulation/ Strategy,20396
+Baldur's Gate II: Enhanced Edition,game,0.0,False,7322,29.5,78.0,Beamdog,Beamdog,7532,701,Adventure/ RPG,974
+The Talos Principle,game,0.0,False,23906,43.95,85.0,Croteam,Devolver Digital/ Croteam,25830,1171,Action/ Adventure/ Indie,187
+Just Cause 2: Multiplayer Mod,game,0.0,True,104,0.0,0.0,Avalanche Studios,Square Enix,13807,1252,Action/ Adventure,24
+The Walking Dead: Season Two,game,18.0,False,21489,17.95,80.0,Telltale Games,Skybound Games,26698,1040,Adventure,101
+Killer is Dead - Nightmare Edition,game,0.0,False,3347,2.99,0.0,KADOKAWA GAMES / GRASSHOPPER MANUFACTURE,Deep Silver,6018,1956,Action,12
+Mount & Blade II: Bannerlord,game,0.0,False,176176,69.95,77.0,TaleWorlds Entertainment,TaleWorlds Entertainment,197624,27344,Action/ Indie/ RPG/ Simulation/ Strategy,21906
+Ori and the Blind Forest,game,0.0,False,43269,0.0,88.0,Moon Studios GmbH,Xbox Game Studios,48695,2457,Action,399
+Borderlands: The Pre-Sequel,game,15.0,False,28065,5.19,75.0,2K Australia/ Gearbox Software/ Aspyr (Linux),2K/ Aspyr (Linux),31431,7259,Action/ RPG,698
+Dungeons 2,game,0.0,False,2112,29.95,70.0,Realmforge Studios,Kalypso Media Digital,4024,916,RPG/ Simulation/ Strategy,36
+World of Guns: Gun Disassembly,game,0.0,True,310,0.0,0.0,Noble Empire Corp.,Noble Empire Corp.,15138,2891,Action/ Casual/ Free to Play/ Indie/ Simulation/ Strategy,168
+Dragons and Titans,game,0.0,False,0,0.0,43.0,Wyrmbyte,Versus Evil,2688,742,Action/ Adventure/ Free to Play/ Indie/ RPG,0
+Subnautica,game,0.0,False,216307,44.99,87.0,Unknown Worlds Entertainment,Unknown Worlds Entertainment,230603,7974,Adventure/ Indie,5801
+Viscera Cleanup Detail: Santa's Rampage,game,0.0,False,4099,4.5,0.0,RuneStorm,RuneStorm,4909,478,Gore/ Indie/ Simulation,20
+Dead Rising 3 Apocalypse Edition,game,17.0,False,10847,8.99,0.0,Capcom Game Studio Vancouver,Capcom,12437,4048,Action,120
+The Red Solstice,game,0.0,False,830,14.5,74.0,Ironward,Ironward,1734,668,Action/ RPG/ Strategy,4
+Fistful of Frags,game,0.0,True,491,0.0,0.0,Fistful of Frags Team,Fistful of Frags Team,31825,3000,Action/ Free to Play/ Indie,106
+Goat Simulator,game,0.0,False,48887,14.5,62.0,Coffee Stain Studios,Coffee Stain Publishing,57763,6154,Casual/ Indie/ Simulation,127
+Age of Mythology: Extended Edition,game,0.0,False,26443,42.95,66.0,SkyBox Labs/ Ensemble Studios,Xbox Game Studios,28084,2244,Simulation/ Strategy,2029
+The Evil Within,game,17.0,False,16077,29.95,68.0,Tango Gameworks,Bethesda Softworks,21945,3841,Action,197
+Aura Kingdom,game,0.0,False,125,0.0,0.0,X-Legend,Aeria Games,6791,1874,Adventure/ Casual/ Free to Play/ Massively Multiplayer/ RPG,1
+Cuphead,game,0.0,False,125482,28.95,88.0,Studio MDHR Entertainment Inc.,Studio MDHR Entertainment Inc.,136131,4988,Action/ Indie,2016
+Hero Siege,game,0.0,False,27215,9.99,0.0,Panic Art Studios Ltd.,Panic Art Studios Ltd.,27031,8866,Action/ Adventure/ Indie/ Massively Multiplayer/ RPG,456
+RUNNING WITH RIFLES,game,0.0,False,12674,21.5,78.0,Osumia Games,Osumia Games,12846,1738,Action/ Indie,509
+American Truck Simulator,game,0.0,False,107236,28.95,76.0,SCS Software,SCS Software,126729,4381,Indie/ Simulation,8315
+Grand Theft Auto V,game,0.0,False,1456790,0.0,96.0,Rockstar North,Rockstar Games,1360117,223755,Action/ Adventure,159766
+Serena,game,0.0,True,0,0.0,0.0,Senscape,Senscape,4881,1435,Adventure/ Indie,2
+Counter-Strike Nexon: Studio,game,0.0,True,614,0.0,0.0,Valve/ NEXON,NEXON,27204,13959,Action/ Casual/ Free to Play/ Massively Multiplayer,633
+Evolve Stage 2,game,15.0,False,9289,0.0,77.0,Turtle Rock Studios,2K,33803,14645,Action/ Free to Play,17
+Broforce,game,0.0,False,42851,21.95,83.0,Free Lives,Devolver Digital,51223,1560,Action/ Adventure/ Casual/ Indie,395
+Depth,game,0.0,False,23068,10.13,65.0,Digital Confectioners,Digital Confectioners,28493,3923,Action/ Indie,66
+Guacamelee! Super Turbo Championship Edition,game,0.0,False,2169,21.95,80.0,DrinkBox Studios,DrinkBox Studios,5778,471,Action/ Adventure/ Indie,24
+No Man's Sky,game,0.0,False,206648,87.95,61.0,Hello Games,Hello Games,210330,58871,Action/ Adventure,6757
+DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,game,0.0,False,10135,49.99,71.0,KOEI TECMO GAMES CO./ LTD.,KOEI TECMO GAMES CO./ LTD.,10007,1856,Action,618
+A Story About My Uncle,game,0.0,False,11817,21.5,73.0,Gone North Games,Coffee Stain Publishing,26027,2328,Adventure/ Casual/ Indie,19
+The I of the Dragon,game,0.0,False,361,2.98,0.0,Primal,TopWare Interactive,605,292,RPG,3
+Creativerse,game,0.0,False,2374,35.95,0.0,Playful Corp.,Playful Corp.,24196,6780,Action/ Adventure/ Casual/ Indie/ Massively Multiplayer/ RPG/ Simulation,116
+Stellaris,game,0.0,False,106788,56.95,78.0,Paradox Development Studio,Paradox Interactive,134232,17463,Simulation/ Strategy,15080
+This War of Mine,game,0.0,False,77988,5.9,83.0,11 bit studios,11 bit studios,86295,6496,Adventure/ Indie/ Simulation,1459
+SOMA,game,0.0,False,31549,13.18,84.0,Frictional Games,Frictional Games,34794,1469,Action/ Adventure/ Indie,98
+Quake Live,game,0.0,False,3417,14.95,0.0,id Software,Bethesda Softworks,12679,2044,Action,436
+BeamNG.drive,game,0.0,False,171947,35.95,0.0,BeamNG,BeamNG,182620,5469,Racing/ Simulation/ Early Access,14538
+Warhammer 40/000: Dawn of War III,game,0.0,False,12065,59.99,77.0,Relic Entertainment/ Feral Interactive (Mac)/ Feral Interactive (Linux),SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),9870,11000,Action/ Simulation/ Strategy,129
+Braveland,game,0.0,False,1048,11.5,0.0,Tortuga Team,Tortuga Team,2428,537,Adventure/ Casual/ Indie/ RPG/ Strategy,5
+Gang Beasts,game,0.0,False,40941,28.95,0.0,Boneloaf/ Coatsink,Boneloaf,41831,8452,Action/ Adventure/ Casual/ Indie/ Simulation,764
+Tabletop Simulator,game,0.0,False,37746,28.95,0.0,Berserk Games,Berserk Games,56565,3655,Casual/ Indie/ RPG/ Simulation/ Strategy,6320
+F1 2015,game,0.0,False,1278,0.0,61.0,Codemasters/ Feral Interactive (Linux),Codemasters/ Feral Interactive (Linux),5374,3156,Racing/ Sports,26
+Metro 2033 Redux,game,0.0,False,64698,29.95,0.0,4A Games,Deep Silver,66348,7961,Action,567
+Resident Evil Revelations 2,game,15.0,False,19549,1.16,0.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,19181,5265,Action/ Adventure,191
+Metro: Last Light Redux,game,0.0,False,50479,19.99,76.0,4A Games,Deep Silver,52254,6125,Action,479
+Rise of Nations: Extended Edition,game,0.0,False,10608,28.95,89.0,SkyBox Labs/ Big Huge Games,Xbox Game Studios,11963,713,Simulation/ Strategy,768
+METAL GEAR SOLID V: THE PHANTOM PAIN,game,18.0,False,56737,28.95,91.0,Konami Digital Entertainment,Konami Digital Entertainment,77932,7566,Action/ Adventure,2053
+Warface,game,0.0,True,943,0.0,0.0,MY.GAMES,MY.GAMES,55043,26898,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG/ Simulation/ Strategy,1102
+Brawlhalla,game,0.0,True,2874,0.0,0.0,Blue Mammoth Games,Ubisoft,275299,54945,Action/ Free to Play/ Indie,18149
+Pillars of Eternity,game,0.0,False,14124,42.95,89.0,Obsidian Entertainment,Xbox Game Studios,19648,2644,RPG,666
+Deponia: The Complete Journey,game,0.0,False,3048,4.39,0.0,Daedalic Entertainment,Daedalic Entertainment,5293,801,Adventure,61
+Overcast - Walden and the Werewolf,game,0.0,False,1204,0.46,0.0,Microblast Games,SA Industry,1719,1111,Action/ Adventure/ Indie,107
+Guns and Robots,game,0.0,True,0,0.0,0.0,Masthead Studios Ltd,Masthead Studios Ltd/ Thegamewallstudios/ Gamigo AG,1115,583,Action/ Free to Play/ Indie/ Massively Multiplayer/ RPG,0
+RimWorld,game,0.0,False,138387,31.99,87.0,Ludeon Studios,Ludeon Studios,161128,3126,Indie/ Simulation/ Strategy,23158
+Just Survive,game,0.0,False,64223,0.0,0.0,Daybreak Game Company,Daybreak Game Company,46353,32154,Action/ Adventure/ Massively Multiplayer,1
+War Trigger 3,game,0.0,True,168,0.0,0.0,Rocketeer Games Studio/ LLC,Rocketeer Games Studio/ LLC,4920,3331,Action/ Casual/ Free to Play/ Indie/ Simulation,12
+The Escapists,game,0.0,False,13803,25.95,71.0,Mouldy Toof Studios,Team17,14082,1530,Action/ Adventure/ Indie/ Simulation/ Strategy,75
+Block N Load,game,0.0,True,1860,0.0,72.0,Toadman Interactive/ Artplant,Toadman Interactive,12023,3311,Action/ Free to Play/ Massively Multiplayer/ Strategy,15
+Woodle Tree Adventures,game,0.0,False,1349,4.5,0.0,Fabio Ferrara,Chubby Pixel,3706,1787,Action/ Adventure/ Indie,83
+Robocraft,game,0.0,True,2493,0.0,0.0,Freejam,Freejam,86162,32252,Action/ Free to Play/ Indie/ Massively Multiplayer/ RPG/ Simulation,256
+Zombie Army Trilogy,game,0.0,False,12209,64.95,72.0,Rebellion,Rebellion,13824,1991,Action,80
+Ryse: Son of Rome,game,0.0,False,29233,14.5,61.0,Crytek,Crytek,30442,4880,Action,127
+Call to Arms,game,0.0,False,14129,19.99,0.0,Digitalmindsoft,Digitalmindsoft,16408,4210,Action/ Indie/ Simulation/ Strategy,452
+BLOCKADE 3D,game,0.0,True,426,0.0,0.0,Novalink,Novalink,15359,10948,Action/ Free to Play/ Early Access,5
+Dead Bits,game,0.0,False,3489,0.46,0.0,Microblast Games,SA Industry,4990,3455,Action/ Casual/ Indie,371
+ArcheAge,game,13.0,True,792,0.0,80.0,XLGAMES,Kakao Games Europe B.V.,3769,3458,Free to Play/ Massively Multiplayer/ RPG,89
+Trove,game,0.0,True,1017,0.0,0.0,gamigo US Inc.,gamigo US Inc.,72593,17530,Action/ Adventure/ Casual/ Free to Play/ Massively Multiplayer/ RPG,1644
+Resident Evil,game,0.0,False,15521,7.48,82.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,19158,1523,Action/ Adventure,218
+INSIDE,game,0.0,False,44685,29.99,87.0,Playdead,Playdead,48205,1667,Action/ Adventure/ Indie,273
+Unturned,game,0.0,True,7694,0.0,0.0,Smartly Dressed Games,Smartly Dressed Games,474181,44041,Action/ Adventure/ Casual/ Free to Play/ Indie,53412
+The Long Dark,game,0.0,False,87571,29.5,0.0,Hinterland Studio Inc.,Hinterland Studio Inc.,89508,8838,Adventure/ Indie/ Simulation/ Strategy,2184
+Sleeping Dogs: Definitive Edition,game,17.0,False,47891,19.99,0.0,United Front Games/ Feral Interactive (Mac),Square Enix/ Feral Interactive (Mac),50747,3900,Action/ Adventure/ Racing,738
+Mortal Kombat X,game,18.0,False,32029,29.95,84.0,NetherRealm Studios/ QLOC,Warner Bros. Interactive Entertainment,42003,7999,Action,647
+Back to Bed,game,0.0,False,572,2.12,0.0,Bedtime Digital Games,Bedtime Digital Games,2118,492,Action/ Casual/ Indie,3
+Gene Shift Auto,game,0.0,True,114,0.0,0.0,Nik Nak Studios,Nik Nak Studios,1825,400,Action/ Free to Play/ Indie/ Early Access,23
+DiRT Rally,game,0.0,False,20433,0.0,86.0,Codemasters/ Feral Interactive (Linux)/ Feral Interactive (Mac),Codemasters/ Feral Interactive (Linux)/ Feral Interactive (Mac)/ Electronic Arts,34103,4706,Racing/ Simulation/ Sports,142
+Street Fighter V,game,0.0,False,26369,14.97,89.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,28135,14009,Action,384
+Zero Escape: Zero Time Dilemma,game,0.0,False,3315,28.95,78.0,Spike Chunsoft Co./ Ltd.,Spike Chunsoft Co./ Ltd.,2987,533,Adventure,37
+METAL GEAR SOLID V: GROUND ZEROES,game,17.0,False,11493,19.99,80.0,Konami Digital Entertainment,Konami Digital Entertainment,12720,2502,Action/ Adventure,76
+Enter the Gungeon,game,0.0,False,65507,21.95,84.0,Dodge Roll,Devolver Digital,70944,3030,Action/ Adventure/ Indie,1155
+Data Hacker: Initiation,game,0.0,False,111,1.5,0.0,New Reality Games,New Reality Games,153,84,Adventure/ Indie/ RPG/ Simulation,28
+Rain World,game,0.0,False,15445,36.5,66.0,Videocult,Akupara Games,17364,1312,Action/ Adventure/ Indie,1824
+Duck Game,game,0.0,False,23107,18.5,82.0,Landon Podbielski,Adult Swim Games,34388,1241,Action/ Indie,441
+Sniper Elite 4,game,0.0,False,41763,8.49,78.0,Rebellion,Rebellion,43976,4453,Action/ Adventure,1315
+The Expendabros,game,0.0,True,181,0.0,0.0,Free Lives,Devolver Digital,17342,500,Action/ Adventure/ Free to Play/ Indie,39
+Stranded Deep,game,0.0,False,37531,28.95,0.0,Beam Team Games,Beam Team Publishing,30798,10219,Adventure/ Indie,614
+Microsoft Flight Simulator X: Steam Edition,game,0.0,False,20689,35.95,0.0,Microsoft Game Studios,Xbox Game Studios,20413,3279,Simulation,790
+Magic Duels,game,0.0,False,1404,0.0,0.0,Stainless Games Ltd.,Wizards of the Coast LLC,16973,6976,Free to Play/ Strategy,53
+Double Action: Boogaloo,game,0.0,True,137,0.0,0.0,Double Action Factory,Double Action Factory,10412,800,Action/ Free to Play/ Indie,14
+Five Nights at Freddy's,game,0.0,False,35236,7.5,78.0,Scott Cawthon,Scott Cawthon,36710,2933,Indie/ Simulation,213
+Life is Strange - Episode 1,game,12.0,True,114851,0.0,0.0,DONTNOD Entertainment/ Feral Interactive (Mac)/ Feral Interactive (Linux),Square Enix/ Feral interactive (Mac)/ Feral Interactive (Linux),155046,6201,Action/ Adventure,365
+AX:EL - Air XenoDawn,game,0.0,True,0,0.0,0.0,Alex Piola,KISS ltd,964,286,Action/ Indie/ Simulation,0
+Geometry Dash,game,0.0,False,229183,5.95,0.0,RobTop Games,RobTop Games,232471,16574,Action/ Indie,15086
+Don't Starve Together,game,0.0,False,275890,21.5,83.0,Klei Entertainment,Klei Entertainment,391994,17262,Action/ Adventure/ Indie/ RPG/ Simulation/ Strategy,41209
+SUPERHOT,game,0.0,False,22948,10.49,82.0,SUPERHOT Team,SUPERHOT Team,31394,3200,Action/ Indie,115
+Frostpunk,game,0.0,False,76943,8.79,84.0,11 bit studios,11 bit studios,85444,7475,Simulation/ Strategy,2870
+DRAGON BALL XENOVERSE,game,0.0,False,14069,56.95,0.0,DIMPS,BANDAI NAMCO Entertainment,16079,1920,Action,485
+Jotun: Valhalla Edition,game,0.0,False,1981,21.95,79.0,Thunder Lotus Games,Thunder Lotus Games,6358,1822,Action/ Adventure/ Indie,6
+Move or Die,game,0.0,False,15666,21.5,80.0,Those Awesome Guys,Those Awesome Guys,19872,2204,Action/ Indie,94
+Shadow Warrior 2,game,0.0,False,20608,43.95,78.0,Flying Wild Hog,Devolver Digital,21051,3049,Action/ Adventure,174
+Total War: ATTILA,game,0.0,False,21965,16.74,80.0,CREATIVE ASSEMBLY,SEGA,25300,5795,Strategy,2970
+Gigantic,game,0.0,False,0,0.0,76.0,Motiga Inc.,Perfect World Entertainment,5701,1759,Action/ Free to Play/ Strategy,0
+Devil May Cry 4 Special Edition,game,13.0,False,10518,11.38,0.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd. ,12410,1366,Action,195
+Children of Morta,game,0.0,False,13347,8.98,82.0,Dead Mage,11 bit studios,15223,1781,Action/ Adventure/ Indie/ RPG,462
+Everlasting Summer,game,0.0,True,562,0.0,0.0,Soviet Games,Soviet Games,64406,3268,Adventure/ Casual/ Free to Play/ Indie,802
+School of Dragons,game,0.0,False,0,0.0,0.0,JumpStart Games/ Inc.,JumpStart Games/ Inc.,3281,2165,Adventure/ Free to Play/ Massively Multiplayer/ RPG,2
+Dark Deception,game,0.0,True,758,0.0,0.0,Glowstick Entertainment,Glowstick Entertainment,14006,1584,Action/ Adventure/ Free to Play/ Indie,385
+Cossacks 3,game,0.0,False,9051,28.95,0.0,GSC Game World,GSC Game World,9721,2225,Action/ Adventure/ Strategy,1042
+Town of Salem,game,0.0,False,30922,7.5,0.0,BlankMediaGames,BlankMediaGames,32151,4105,Indie/ RPG/ Strategy,310
+Transformice,game,0.0,True,271,0.0,0.0,Atelier 801,Atelier 801,21576,3083,Free to Play/ Indie/ Massively Multiplayer,1937
+Deus Ex: Mankind Divided,game,15.0,False,27481,6.74,83.0,Eidos Montreal/ Feral Interactive (Linux)/ Feral Interactive (Mac),Eidos Interactive Corp./ Feral Interactive (Linux)/ Feral Interactive (Mac),28871,9517,Action/ RPG,424
+Paint the Town Red,game,0.0,False,21094,29.5,0.0,South East Games,South East Games,22185,1007,Action/ Indie,396
+Freestyle 2: Street Basketball,game,0.0,True,150,0.0,0.0,JOYCITY,JOYCITY,8916,3306,Action/ Casual/ Free to Play/ Massively Multiplayer/ Sports,279
+Kholat,game,0.0,False,1849,27.95,64.0,IMGN.PRO,IMGN.PRO,4288,2075,Adventure/ Indie,4
+Besiege,game,0.0,False,41103,21.5,0.0,Spiderling Studios,Spiderling Studios,43637,2023,Indie/ Simulation,309
+ARK: Survival Evolved,game,0.0,False,489851,16.79,70.0,Studio Wildcard/ Instinct Games/ Efecto Studios/ Virtual Basement LLC,Studio Wildcard,534762,111919,Action/ Adventure/ Indie/ Massively Multiplayer/ RPG,54736
+BrainBread 2,game,0.0,True,0,0.0,0.0,Reperio Studios,Reperio Studios,3608,1312,Action/ Adventure/ Free to Play/ Indie,21
+AdVenture Capitalist,game,0.0,True,514,0.0,0.0,Hyper Hippo Games,Hyper Hippo Games,48592,6581,Casual/ Free to Play/ Indie,1873
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,game,0.0,False,62473,42.95,0.0,CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,71227,7029,Action/ Adventure,1942
+Romero's Aftermath,game,16.0,False,157,0.0,0.0,Free Reign Entertainment,OP Productions LLC/ Free Reign East LLC,5464,5792,Action/ Free to Play/ Indie/ Massively Multiplayer,0
+Sherlock Holmes: The Devil's Daughter,game,0.0,False,10439,46.99,65.0,Frogwares,Frogwares,10125,2608,Action/ Adventure,45
+The Descendant,game,0.0,True,508,21.5,59.0,Gaming Corps AB,Microids Indie/ Microids,5383,742,Adventure/ Casual/ Indie,1091
+Codename CURE,game,0.0,True,298,0.0,0.0,Hoobalugalar_X,Raptor Byte,13707,2508,Action/ Free to Play,22
+Survarium,game,0.0,False,366,0.0,0.0,Vostok Games,Vostok Games,13957,11907,Action/ Free to Play/ Massively Multiplayer/ RPG/ Early Access,2
+Spooky's Jump Scare Mansion,game,0.0,True,150,0.0,0.0,Lag Studios,Lag Studios,12816,985,Action/ Adventure/ Free to Play/ Indie,25
+Elite Dangerous,game,0.0,False,68254,42.95,80.0,Frontier Developments,Frontier Developments,69069,20145,Action/ Adventure/ Massively Multiplayer/ RPG/ Simulation/ Strategy,3877
+Mafia III: Definitive Edition,game,18.0,False,27413,39.98,62.0,Hangar 13/ Aspyr (Mac),2K/ Aspyr (Mac),26706,20192,Action/ Adventure,997
+ASTRONEER,game,0.0,False,93687,44.99,0.0,System Era Softworks,System Era Softworks,100207,8895,Adventure/ Indie,4845
+Black Mesa,game,0.0,False,92466,28.95,84.0,Crowbar Collective,Crowbar Collective,95006,4585,Action/ Adventure/ Indie,935
+Clicker Heroes,game,0.0,True,780,0.0,0.0,Playsaurus,Playsaurus,53129,5980,Adventure/ Casual/ Free to Play/ Indie/ RPG/ Simulation/ Strategy,2738
+Total War: WARHAMMER,game,0.0,False,30988,89.99,86.0,CREATIVE ASSEMBLY/ Feral Interactive (Linux)/ Feral Interactive (Mac),SEGA/ Feral Interactive (Linux)/ Feral Interactive (Mac),39642,11075,Action/ Strategy,685
+Hacknet,game,0.0,False,14178,14.5,82.0,Team Fractal Alligator,Fellow Traveller,21422,1474,Indie/ Simulation,265
+Blender,game,0.0,True,134,0.0,0.0,Blender Foundation,Blender Foundation,44852,1392,Animation & Modeling/ Design & Illustration/ Video Production,7920
+Poly Bridge,game,0.0,False,14355,15.0,73.0,Dry Cactus,Dry Cactus,14670,1365,Indie/ Simulation,166
+Dragon's Dogma: Dark Arisen,game,0.0,False,26474,7.19,81.0,Capcom,Capcom,31361,3520,Action/ Adventure/ RPG,1641
+Hollow Knight,game,0.0,False,266512,21.95,87.0,Team Cherry,Team Cherry,291191,8415,Action/ Adventure/ Indie,6866
+Kingdom: Classic,game,0.0,True,5786,0.0,74.0,Noio/ Licorice,Raw Fury,18433,1906,Indie/ Simulation/ Strategy,89
+Marvel's Midnight Suns,game,15.0,False,9144,35.98,0.0,Firaxis Games,2K,10589,2658,RPG/ Strategy,1663
+Her Story,game,0.0,False,6631,14.5,86.0,Sam Barlow,Sam Barlow,7637,881,Adventure/ Casual/ Indie/ Simulation,14
+Kathy Rain,game,0.0,False,1618,14.5,77.0,Clifftop Games,Raw Fury,3310,274,Adventure/ Indie,5
+Tree of Savior (English Ver.),game,0.0,True,5770,0.0,0.0,IMCGAMES Co./Ltd.,IMCGAMES Co./Ltd.,12851,7079,Free to Play/ Massively Multiplayer/ RPG,316
+Divinity: Original Sin - Enhanced Edition,game,0.0,False,19517,56.95,94.0,Larian Studios,Larian Studios,21690,2383,Adventure/ Indie/ RPG/ Strategy,1310
+Portal Knights,game,0.0,False,15584,28.95,72.0,Keen Games GmbH,505 Games,17160,3477,Action/ Adventure/ RPG,164
+NOBUNAGA'S AMBITION: Sphere of Influence - Ascension,game,0.0,False,686,84.95,0.0,KOEI TECMO GAMES CO./ LTD.,KOEI TECMO GAMES CO./ LTD.,654,296,Strategy,117
+The Isle,game,0.0,False,61930,28.95,0.0,Afterthought LLC,Afterthought LLC,55665,11364,Action/ Adventure/ Indie/ Massively Multiplayer/ Simulation/ Early Access,6441
+Fallout 4,game,17.0,False,201744,24.95,84.0,Bethesda Game Studios,Bethesda Softworks,257856,54944,RPG,21256
+The Surge,game,0.0,False,6408,19.95,72.0,Deck13,Focus Entertainment,6860,2255,Action/ RPG,124
+Project CARS 2,game,0.0,False,11344,0.0,84.0,Slightly Mad Studios,BANDAI NAMCO Entertainment,14426,3421,Racing,342
+Kingdom Come: Deliverance,game,18.0,False,83458,42.95,76.0,Warhorse Studios,Warhorse Studios/ Prime Matter,92685,19301,Action/ Adventure/ RPG,3583
+DOOM,game,18.0,False,120172,34.95,85.0,id Software,Bethesda Softworks,171699,8446,Action,810
+Fishing Planet,game,0.0,True,494,0.0,0.0,Fishing Planet LLC,Fishing Planet LLC,39480,6424,Free to Play/ Massively Multiplayer/ Simulation/ Sports,4548
+Dead by Daylight,game,15.0,False,486729,11.58,0.0,Behaviour Interactive Inc.,Behaviour Interactive Inc.,541254,134983,Action,39494
+Relic Hunters Zero: Remix,game,0.0,True,0,0.0,0.0,Rogue Snail,Akupara Games,6331,442,Action/ Free to Play/ Indie,18
+Sakura Clicker,game,0.0,True,243,0.0,0.0,Winged Cloud,Winged Cloud,12384,2406,Casual/ Free to Play/ Indie,83
+Dead Island Definitive Edition,game,15.0,False,17558,29.95,0.0,Techland,Deep Silver,16813,3715,Action,468
+Firewatch,game,0.0,False,56942,29.5,81.0,Campo Santo,Panic/ Campo Santo,54343,6773,Adventure/ Indie,83
+Crossout,game,0.0,True,854,0.0,0.0,Targem Games,Gaijin Distribution KFT,42759,12959,Action/ Free to Play/ Massively Multiplayer/ Racing,7490
+Ultimate Chicken Horse,game,0.0,False,27197,21.95,0.0,Clever Endeavour Games,Clever Endeavour Games,33350,1406,Action/ Casual/ Indie,521
+Ori and the Blind Forest: Definitive Edition,game,0.0,False,51950,29.95,88.0,Moon Studios GmbH,Xbox Game Studios,56365,2602,Action,366
+Scrap Mechanic,game,0.0,False,89309,28.95,0.0,Axolot Games,Axolot Games,92580,7058,Action/ Adventure/ Indie/ Simulation/ Early Access,2338
+Darksiders II Deathinitive Edition,game,0.0,False,12243,42.95,0.0,Gunfire Games/ Vigil Games/ THQ Nordic,THQ Nordic,12099,3453,Action/ Adventure/ RPG,172
+Knight Online,game,0.0,True,115,0.0,0.0,Noah System/ Mgame,NTTGame,5118,5185,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG,921
+Mitos.is: The Game,game,0.0,True,180,0.0,0.0,Freakinware Studios,Freakinware Studios,9463,2255,Free to Play/ Simulation,42
+TEKKEN 7,game,0.0,False,59687,56.95,82.0,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,69366,14685,Action/ Sports,4874
+WARMODE,game,0.0,True,342,0.0,0.0,Novalink,Novalink,10428,6436,Action/ Free to Play,2
+Undertale,game,0.0,False,178789,14.5,92.0,tobyfox,tobyfox,195343,6711,Indie/ RPG,1147
+Layers of Fear (2016),game,0.0,False,11317,28.95,73.0,Bloober Team SA,Bloober Team SA,22512,2774,Adventure/ Indie,30
+X4: Foundations,game,0.0,False,14321,73.5,0.0,Egosoft,Egosoft,13255,3916,Action/ Simulation/ Strategy,2981
+Squad,game,0.0,False,103842,69.95,0.0,Offworld Industries,Offworld Industries,121588,19695,Action/ Indie/ Massively Multiplayer/ Strategy,12120
+Hearts of Iron IV,game,0.0,False,172242,56.95,83.0,Paradox Development Studio,Paradox Interactive,219629,19500,Simulation/ Strategy,43141
+DISTRAINT: Deluxe Edition,game,0.0,False,6170,1.27,76.0,Jesse Makkonen,Jesse Makkonen,10457,753,Adventure/ Casual/ Indie,8
+Borderlands 3,game,0.0,False,93925,13.49,81.0,Gearbox Software,2K,102074,18331,Action/ RPG,6267
+Business Tour - Board Game with Online Multiplayer,game,0.0,True,0,0.0,0.0,Creobit,8Floor,41761,26475,Adventure/ Casual/ Free to Play/ Indie/ Massively Multiplayer/ Simulation/ Strategy,1647
+Heaven Island - VR MMO,game,0.0,False,361,1.5,0.0,Fabio Ferrara/ Giulia Airoldi,Chubby Pixel,1237,866,Adventure/ Indie/ Massively Multiplayer,446
+Dishonored 2,game,15.0,False,33487,39.95,86.0,Arkane Studios,Bethesda Softworks,48172,6206,Action,787
+Metro Exodus,game,0.0,False,79757,44.0,85.0,4A Games,Deep Silver,82304,10088,Action,1496
+Stardew Valley,game,0.0,False,495038,16.99,89.0,ConcernedApe,ConcernedApe,575047,10404,Indie/ RPG/ Simulation,40436
+Hellblade: Senua's Sacrifice,game,17.0,False,48993,29.99,83.0,Ninja Theory,Ninja Theory,51766,5092,Action/ Adventure/ Indie,120
+Outlast 2,game,0.0,False,37012,43.95,75.0,Red Barrels,Red Barrels,40324,3906,Action/ Adventure/ Indie,216
+Emily is Away,game,0.0,True,384,0.0,0.0,Kyle Seeley,Kyle Seeley,27476,3541,Adventure/ Casual/ Free to Play/ Indie/ Simulation,23
+Street Warriors Online,game,0.0,False,317,0.0,0.0,Crazy Rocks Studios,Crazy Rocks Studios,959,700,Action/ Massively Multiplayer/ Simulation/ Sports,0
+Turbo Pug,game,0.0,False,2246,1.5,0.0,Space Cat Studios/ SnowFlame/ Back To Basics Gaming,Back To Basics Gaming,3073,312,Casual/ Indie,64
+Shadow Tactics: Blades of the Shogun,game,0.0,False,27262,59.95,85.0,Mimimi Games,Daedalic Entertainment,32719,1304,Indie/ Strategy,198
+Resident Evil 7 Biohazard,game,18.0,False,49689,11.39,83.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,70762,3658,Action/ Adventure,696
+Rising Storm 2: Vietnam,game,0.0,False,37033,35.95,81.0,Antimatter Games/ Tripwire Interactive,Tripwire Interactive,45600,7191,Action/ Massively Multiplayer/ Simulation/ Strategy,535
+Furi,game,0.0,False,8488,29.5,76.0,The Game Bakers,The Game Bakers,9824,982,Action/ Indie,35
+Wolcen: Lords of Mayhem,game,0.0,False,60566,56.95,60.0,WOLCEN Studio,WOLCEN Studio,37461,28937,Action/ Adventure/ Indie/ RPG,393
+Little Nightmares,game,0.0,False,36411,7.23,81.0,Tarsier Studios,BANDAI NAMCO Entertainment,86105,4793,Adventure,396
+Orcs Must Die! Unchained,game,0.0,False,155,0.0,87.0,Robot Entertainment,Robot Entertainment,4188,1931,Action/ Free to Play/ Strategy,3
+Factorio,game,0.0,False,136855,50.0,90.0,Wube Software LTD.,Wube Software LTD.,162700,6007,Casual/ Indie/ Simulation/ Strategy,13398
+Who's Your Daddy?!,game,0.0,False,21936,14.5,0.0,Evil Tortilla Games,Evil Tortilla Games,21742,5496,Action/ Casual/ Indie,143
+Space Pilgrim Episode I: Alpha Centauri,game,0.0,True,736,0.0,0.0,Pilgrim Adventures/ GrabTheGames Studios,GrabTheGames/ TheGamesFortress,1043,142,Adventure/ Indie,1
+Golf With Your Friends,game,0.0,False,38841,21.5,0.0,Blacklight Interactive/ Team17,Team17,51593,6369,Casual/ Indie/ Sports,1389
+Wallpaper Engine,game,0.0,False,621408,6.49,0.0,Wallpaper Engine Team,Wallpaper Engine Team,659373,12753,Casual/ Indie/ Animation & Modeling/ Design & Illustration/ Photo Editing/ Utilities,107140
+Slime Rancher,game,0.0,False,96732,28.95,81.0,Monomi Park,Monomi Park,106881,2290,Action/ Adventure/ Indie/ Simulation,906
+Z1 Battle Royale,game,0.0,True,145939,0.0,70.0,Daybreak Game Company,Daybreak Game Company,114814,91820,Action/ Adventure/ Free to Play/ Massively Multiplayer,1005
+Lost Castle / 失落城堡,game,0.0,False,17114,14.5,0.0,Hunter Studio,Neon Doctrine,19570,2687,Action/ Adventure/ Indie/ RPG,405
+Divinity: Original Sin 2 - Definitive Edition,game,0.0,False,144062,44.99,93.0,Larian Studios,Larian Studios,158780,6597,Adventure/ RPG/ Strategy,11717
+Governor of Poker 3,game,0.0,True,0,0.0,0.0,Azerion/ YoudaGames,Azerion/ Youda Games Holding B.V.,8629,3755,Casual/ Free to Play/ Massively Multiplayer/ Simulation,3151
+Line of Sight,game,0.0,True,2700,0.0,0.0,BlackSpot Entertainment,BlackSpot Entertainment,5410,3708,Action/ Free to Play/ Indie/ Massively Multiplayer,29
+The Culling,game,0.0,False,12963,0.0,0.0,Xaviant,Xaviant Games,10155,7581,Action/ Free to Play/ Indie,2
+Shakes and Fidget,game,0.0,True,187,0.0,0.0,Playa Games GmbH,Playa Games GmbH,29276,2037,Adventure/ Casual/ Free to Play/ Indie/ Massively Multiplayer/ RPG/ Strategy,2368
+VRChat,game,0.0,True,150,0.0,0.0,VRChat Inc.,VRChat Inc.,145332,54125,Adventure/ Casual/ Free to Play/ Massively Multiplayer/ Simulation/ Sports/ Early Access,27459
+Friday the 13th: The Game,game,18.0,False,62250,7.5,61.0,IllFonic,Gun Media,58789,15278,Action,545
+Stories: The Path of Destinies,game,0.0,False,1842,21.5,74.0,Spearhead Games,Spearhead Games,5575,741,Action/ Adventure/ Indie/ RPG,4
+Z1 Battle Royale: Test Server,game,0.0,False,1896,0.0,0.0,Daybreak Game Company,Daybreak Game Company,1328,1200,Massively Multiplayer,4
+Conan Exiles,game,18.0,False,63473,56.95,0.0,Funcom,Funcom,73450,20284,Action/ Adventure/ Massively Multiplayer/ RPG/ Simulation/ Strategy,14350
+Riders of Icarus,game,0.0,True,737,0.0,0.0,WeMade/ VALOFE,VALOFE,6944,3562,Adventure/ Free to Play/ Massively Multiplayer/ RPG,92
+World of Tanks Blitz,game,0.0,True,885,0.0,0.0,Wargaming Group Limited,Wargaming Group Limited,104335,25770,Action/ Free to Play/ Massively Multiplayer,11690
+Bloons TD Battles,game,0.0,True,351,0.0,0.0,Ninja Kiwi,Ninja Kiwi,25135,2579,Action/ Free to Play/ Strategy,454
+Wizard of Legend,game,0.0,False,15011,22.95,79.0,Contingent99,Contingent99/ Humble Games,16608,1633,Action/ Adventure/ Indie,229
+Farming Simulator 17,game,0.0,False,20383,21.95,69.0,GIANTS Software,GIANTS Software,21242,1481,Simulation,820
+Day of Infamy,game,0.0,False,17379,21.5,77.0,New World Interactive,New World Interactive,18131,3805,Action/ Indie/ Strategy,30
+Bacteria,game,0.0,False,0,1.5,0.0,Sometimes You,Sometimes You,222,163,Casual/ Indie,25
+Overcooked,game,0.0,False,10785,23.95,81.0,Ghost Town Games Ltd.,Team17 Digital Ltd,12215,1243,Action/ Casual/ Indie/ Simulation,167
+The Lab,game,0.0,True,281,0.0,0.0,Valve,Valve,5493,283,Free to Play,30
+Hot Dogs/ Horseshoes & Hand Grenades,game,0.0,False,17545,28.95,0.0,RUST LTD.,RUST LTD.,17870,541,Action/ Simulation/ Early Access,390
+Shadowverse CCG,game,0.0,True,353,0.0,0.0,Cygames/ Inc.,Cygames/ Inc./ Cygames Korea Inc.,10401,3525,Free to Play/ Strategy,3362
+DRAGON BALL XENOVERSE 2,game,0.0,False,32195,10.49,78.0,QLOC/ DIMPS,BANDAI NAMCO Entertainment,38240,4391,Action/ Adventure/ Casual/ Massively Multiplayer,1475
+Oxygen Not Included,game,0.0,False,96392,22.99,86.0,Klei Entertainment,Klei Entertainment,99216,3475,Indie/ Simulation,10444
+High Octane Drift,game,0.0,True,153,0.0,0.0,Cruderocks,Cruderocks,3281,2652,Free to Play/ Racing/ Simulation/ Sports/ Early Access,12
+Crush Crush,game,0.0,True,510,0.0,0.0,Sad Panda Studios,Sad Panda Studios,21349,2352,Casual/ Free to Play/ Indie,2715
+Bayonetta,game,15.0,False,21094,24.95,90.0,PlatinumGames,SEGA,22599,1864,Action/ Adventure,102
+Katana ZERO,game,0.0,False,52175,21.95,83.0,Askiisoft,Devolver Digital,57893,1094,Action/ Indie,152
+Darksiders Warmastered Edition,game,0.0,False,9848,28.95,0.0,KAIKO/ Vigil Games,THQ Nordic,11643,1704,Action/ Adventure/ RPG,120
+Surviving Mars,game,0.0,False,14502,42.95,76.0,Haemimont Games/ Abstraction,Paradox Interactive,20630,3732,Simulation/ Strategy,883
+Deceit,game,0.0,True,2522,0.0,0.0,World Makers,World Makers,70306,18424,Action/ Free to Play/ Indie,1135
+Northgard,game,0.0,False,42973,39.99,81.0,Shiro Games,Shiro Unlimited,48050,6579,Indie/ Simulation/ Strategy,2519
+UNO,game,0.0,False,35179,14.95,0.0,Ubisoft Entertainment,Ubisoft Entertainment,33412,12129,Casual,400
+Rec Room,game,0.0,True,114,0.0,0.0,Rec Room,Rec Room,49099,4746,Adventure/ Casual/ Free to Play/ Massively Multiplayer,3142
+Quantum Break,game,0.0,False,18221,56.95,66.0,Remedy Entertainment,Xbox Game Studios,20944,3552,Action,67
+Titan Quest Anniversary Edition,game,0.0,False,21419,28.95,0.0,Iron Lore Entertainment/ THQ Nordic,THQ Nordic,28333,2753,Action/ RPG,1175
+Beholder,game,0.0,False,17668,2.17,75.0,Warm Lamp Games,Alawar Premium,21967,2018,Adventure/ Indie/ Strategy,175
+Heaven Forest - VR MMO,game,0.0,False,0,1.5,0.0,Fabio Ferrara,Chubby Pixel,303,143,Adventure/ Massively Multiplayer,454
+Human: Fall Flat,game,0.0,False,143958,28.95,70.0,No Brakes Games,Curve Games,177527,9894,Adventure/ Casual/ Indie/ Simulation,4825
+Prey,game,15.0,False,28868,39.95,0.0,Arkane Studios,Bethesda Softworks,39516,4054,Action/ Adventure,447
+Football Manager 2017,game,0.0,False,7812,0.0,80.0,Sports Interactive,SEGA,6547,4493,Simulation/ Sports,814
+Nioh: Complete Edition,game,0.0,False,24244,49.99,84.0,KOEI TECMO GAMES CO./ LTD.,KOEI TECMO GAMES CO./ LTD.,25637,6280,Action/ RPG,366
+Minion Masters,game,0.0,True,1426,0.0,0.0,BetaDwarf,BetaDwarf,55578,5460,Action/ Adventure/ Free to Play/ Indie/ RPG/ Strategy,727
+The Elder Scrolls V: Skyrim Special Edition,game,15.0,False,134509,54.95,74.0,Bethesda Game Studios,Bethesda Softworks,238312,21046,RPG,28216
+Orwell: Keeping an Eye On You,game,0.0,False,7816,14.5,77.0,Osmotic Studios,Osmotic Studios,12876,1266,Adventure/ Indie/ Simulation,16
+Tropico 6,game,0.0,False,15719,59.95,78.0,Limbic Entertainment/ Realmforge Studios,Kalypso Media,20448,3029,Simulation/ Strategy,1015
+Planet Coaster,game,0.0,False,49561,64.95,84.0,Frontier Developments/ Aspyr (Mac),Frontier Developments/ Aspyr (Mac),55085,5291,Action/ Adventure/ Casual/ Simulation/ Strategy,2328
+GTFO,game,0.0,False,34934,54.99,78.0,10 Chambers,10 Chambers,41686,7285,Action,1102
+State of Decay 2: Juggernaut Edition,game,0.0,False,38277,42.95,69.0,Undead Labs,Xbox Game Studios,37242,7876,Action/ RPG/ Simulation,2308
+Celeste,game,0.0,False,69901,28.95,88.0,Maddy Makes Games Inc./ Extremely OK Games/ Ltd.,Maddy Makes Games Inc.,75195,1800,Action/ Adventure/ Indie,1630
+Battlerite,game,0.0,True,21569,0.0,85.0,Stunlock Studios,Stunlock Studios,49777,9168,Action/ Free to Play,164
+Foxhole,game,0.0,False,27868,42.95,0.0,Siege Camp,Siege Camp,25537,5550,Action/ Indie/ Massively Multiplayer/ RPG/ Strategy,1691
+Last Man Standing,game,0.0,False,0,0.0,0.0,Free Reign Entertainment/ Free Reign Entertainment,Free Reign Entertainment,11041,6997,Action/ Adventure/ Free to Play/ Indie/ Massively Multiplayer/ Strategy,0
+ORBITAL,game,0.0,False,0,0.0,0.0,Ardi Studio,Garage Games,215,74,Casual/ Indie,227
+Totally Accurate Battle Simulator,game,0.0,False,102028,28.95,0.0,Landfall,Landfall,106263,2296,Indie/ Simulation/ Strategy,2222
+BIGFOOT,game,0.0,False,13106,29.5,0.0,CyberLight Game Studio,CyberLight Game Studio,13595,3005,Action/ Adventure/ Indie/ Early Access,411
+Evolvation,game,0.0,False,0,2.95,0.0,Eric Ruts/ Jacob Kooiman,HyperReuts,628,291,Action/ Casual/ Indie/ Simulation,1
+Glass Masquerade,game,0.0,False,4640,7.5,0.0,Onyx Lute,Onyx Lute,5794,177,Casual/ Indie,31
+Streets of Rogue,game,0.0,False,13855,5.9,0.0,Matt Dabrowski,tinyBuild,17828,693,Action/ Adventure/ Indie/ RPG,440
+SCUM,game,0.0,False,73558,58.5,0.0,Gamepires,Jagex Ltd,67152,23142,Action/ Adventure/ Indie/ Massively Multiplayer/ Early Access,15940
+My Summer Car,game,0.0,False,50996,21.5,0.0,Amistech Games,Amistech Games,51646,3240,Indie/ Racing/ Simulation/ Early Access,1405
+DUSK,game,0.0,False,16708,28.95,88.0,David Szymanski,New Blood Interactive,18507,460,Action/ Indie,84
+Satisfactory,game,0.0,False,117835,44.95,0.0,Coffee Stain Studios,Coffee Stain Publishing,131899,3939,Adventure/ Indie/ Simulation/ Strategy/ Early Access,14795
+For The King,game,0.0,False,24460,28.95,79.0,IronOak Games,Curve Games,30618,3837,Adventure/ Indie/ RPG/ Strategy,2437
+Warhammer 40/000: Inquisitor - Martyr,game,0.0,False,15392,49.99,67.0,NeocoreGames,NeocoreGames,13142,4361,Action/ Adventure/ Indie/ RPG,615
+Argo,game,0.0,False,0,0.0,0.0,Bohemia Interactive,Bohemia Interactive,5682,5409,Action/ Free to Play,1
+Life is Strange 2,game,18.0,True,19239,0.0,0.0,DONTNOD Entertainment/ Feral Interactive (Mac)/ Feral Interactive (Linux),Square Enix/ Feral Interactive (Mac)/ Feral Interactive (Linux),25570,4445,Adventure,249
+Dying Light 2 Stay Human,game,0.0,False,110758,44.97,0.0,Techland,Techland,110071,29145,Action/ Adventure/ RPG,6591
+Two Point Hospital,game,0.0,False,22863,47.95,83.0,Two Point Studios,SEGA,27854,2531,Indie/ Simulation,721
+Catan Universe,game,0.0,True,0,0.0,0.0,Client/Frontend: Endava  / Backend: SuperNimbus,USM,6349,5467,Casual/ Strategy,1109
+Half-Life: Alyx,game,0.0,False,70632,87.95,93.0,Valve,Valve,80211,1314,Action/ Adventure,446
+Deep Rock Galactic,game,0.0,False,180509,44.95,85.0,Ghost Ship Games,Coffee Stain Publishing,218508,6763,Action,19622
+Black Squad,game,0.0,True,0,0.0,0.0,VALOFE/ NS STUDIO,VALOFE,61121,19203,Action/ Free to Play,911
+Warhammer: Vermintide 2,game,0.0,False,73585,8.39,82.0,Fatshark,Fatshark,95277,17038,Action/ Indie,3541
+World of Warships,game,0.0,True,1797,0.0,81.0,Wargaming Group Limited,Wargaming Group Limited,99234,24074,Action/ Free to Play/ Massively Multiplayer/ Simulation,12917
+Pavlov VR,game,0.0,False,34428,35.95,0.0,Vankrupt Games,Vankrupt Games,34258,2494,Action/ Indie/ Early Access,437
+Infestation: The New Z,game,0.0,True,2256,0.0,0.0,Fredaikis AB,OP Productions LLC,17860,15553,Action/ Free to Play/ Indie/ Massively Multiplayer/ RPG,307
+Art of War: Red Tides,game,0.0,True,726,0.0,0.0,Game Science,Game Science,5285,1429,Free to Play/ Indie/ Strategy/ Early Access,33
+Alien Swarm: Reactive Drop,game,0.0,True,0,0.0,0.0,Reactive Drop Team,Reactive Drop Team,18729,992,Action/ Free to Play,615
+Blood of Steel,game,0.0,True,0,0.0,0.0,YC Games,YC Games,4880,1500,Action/ Free to Play/ Massively Multiplayer/ Strategy,292
+Lobotomy Corporation | Monster Management Simulation,game,0.0,False,25326,35.95,0.0,ProjectMoon,ProjectMoon,25568,1462,Indie/ Simulation,2387
+Kingdoms and Castles,game,0.0,False,24187,21.5,0.0,Lion Shield/ LLC,Lion Shield/ LLC,23362,1774,Indie/ Simulation/ Strategy,586
+Golf It!,game,0.0,False,17943,12.95,0.0,Perfuse Entertainment,Perfuse Entertainment,20119,2308,Casual/ Indie/ Simulation/ Sports/ Early Access,1009
+NBA 2K18,game,0.0,False,14880,0.0,87.0,Visual Concepts,2K,5488,13396,Simulation/ Sports,119
+PUBG,game,0.0,True,1663566,0.0,0.0,KRAFTON/ Inc.,KRAFTON/ Inc.,1260926,939005,Action/ Adventure/ Free to Play/ Massively Multiplayer,292875
+BRAIN / OUT,game,0.0,True,457,0.0,0.0,Desertkun,Desertkun,12590,2776,Action/ Free to Play/ Indie/ Massively Multiplayer,54
+Insurgency: Sandstorm,game,0.0,False,84991,15.98,78.0,New World Interactive,Focus Entertainment,94130,16583,Action,2639
+Monster Hunter: World,game,0.0,False,236001,22.47,88.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,334284,52639,Action,21940
+We Were Here,game,0.0,True,1445,0.0,0.0,Total Mayhem Games,Total Mayhem Games,21113,2032,Action/ Adventure/ Free to Play/ Indie,273
+Black Desert,game,0.0,False,48614,12.99,81.0,Pearl Abyss,Pearl Abyss,52347,17579,Action/ Adventure/ Massively Multiplayer/ RPG/ Simulation/ Strategy,29906
+Minimalism,game,0.0,False,1699,0.43,0.0,PixelMouse,PixelMouse,1276,465,Action/ Adventure/ Casual/ Indie,322
+Fallout Shelter,game,0.0,True,0,0.0,63.0,Bethesda Game Studios,Bethesda Softworks,52675,6834,Free to Play/ RPG/ Simulation,1793
+Dead Cells,game,0.0,False,116446,35.95,89.0,Motion Twin,Motion Twin,131821,3844,Action/ Adventure/ Indie,3429
+Into the Breach,game,0.0,False,14648,21.5,90.0,Subset Games,Subset Games,16466,926,Indie/ RPG/ Simulation/ Strategy,342
+Total War: WARHAMMER II,game,0.0,False,84071,89.99,87.0,Creative Assembly,SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),111715,8505,Action/ Strategy,4067
+Hunt: Showdown,game,15.0,False,133432,59.0,81.0,Crytek,Crytek,140522,29934,Action,29172
+Graveyard Keeper,game,0.0,False,26727,29.5,69.0,Lazy Bear Games,tinyBuild,28952,4584,Adventure/ Indie/ RPG/ Simulation,1446
+Devil May Cry 5,game,0.0,False,69447,15.59,89.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,101780,4664,Action,2280
+The Evil Within 2,game,0.0,False,15464,39.95,80.0,Tango Gameworks,Bethesda Softworks,23154,1908,Action/ Adventure,174
+Yu-Gi-Oh! Duel Links,game,0.0,True,0,0.0,0.0,Konami Digital Entertainment,Konami Digital Entertainment,33733,6462,Free to Play/ Strategy,2527
+Barotrauma,game,0.0,False,34786,24.97,81.0,FakeFish/ Undertow Games,Daedalic Entertainment,45371,3556,Action/ Indie/ Simulation/ Strategy,4677
+Age of History II,game,0.0,False,32563,7.5,0.0,Łukasz Jakowski,Łukasz Jakowski Games,30269,3897,Strategy,1467
+Moonlighter,game,0.0,False,12428,4.34,0.0,Digital Sun,11 bit studios,13433,2794,Action/ Adventure/ Indie,400
+Darksiders III,game,0.0,False,9285,59.95,70.0,Gunfire Games,THQ Nordic,10185,3191,Action/ Adventure/ RPG,101
+Quake Champions,game,15.0,True,6282,0.0,0.0,id Software,Bethesda Softworks,26887,9798,Action/ Free to Play,578
+Wolfenstein II: The New Colossus,game,17.0,False,24911,39.95,86.0,Machine Games,Bethesda Softworks,29620,7433,Action,402
+House Flipper,game,0.0,False,68380,36.5,67.0,Empyrean,Frozen District/ PlayWay S.A.,72118,4692,Indie/ Simulation,3907
+Remnant: From the Ashes,game,15.0,False,39237,56.95,78.0,Gunfire Games,Gearbox Publishing,39509,7014,Action/ Adventure/ RPG,3383
+Beat Saber,game,0.0,False,63314,42.95,93.0,Beat Games,Beat Games,66334,2941,Indie,847
+PC Building Simulator,game,0.0,False,38506,29.5,0.0,Claudiu Kiss/ The Irregular Corporation,The Irregular Corporation,45039,2915,Indie/ Simulation,994
+Idle Champions of the Forgotten Realms,game,0.0,True,0,0.0,0.0,Codename Entertainment Inc.,Codename Entertainment Inc.,9749,2621,Action/ Adventure/ Free to Play/ Indie/ Strategy,4337
+Soundpad,game,0.0,False,53278,7.5,0.0,Leppsoft,Leppsoft,55570,2141,Audio Production/ Utilities,16645
+Blade and Sorcery,game,0.0,False,40825,28.95,0.0,WarpFrog,WarpFrog,41436,1379,Action/ Adventure/ Indie/ RPG/ Simulation/ Early Access,819
+MORDHAU,game,0.0,False,88545,43.95,81.0,Triternion,Triternion,87574,20960,Action/ Indie,2140
+Risk of Rain 2,game,0.0,False,162513,35.95,85.0,Hopoo Games,Gearbox Publishing,232194,9185,Action/ Indie,11044
+Disco Elysium - The Final Cut,game,0.0,False,73225,56.95,97.0,ZA/UM,ZA/UM,73387,5166,RPG,1749
+NARUTO TO BORUTO: SHINOBI STRIKER,game,0.0,False,40191,29.95,0.0,Soleil Ltd.,Bandai Namco Entertainment,45245,7872,Action,399
+CarX Drift Racing Online,game,0.0,False,60466,21.5,0.0,CarX Technologies/ LLC,CarX Technologies/ LLC,62318,2944,Massively Multiplayer/ Racing/ Simulation/ Sports,3142
+Ravenfield,game,0.0,False,58186,25.95,0.0,SteelRaven7,SteelRaven7,59010,1858,Action/ Indie/ Early Access,1272
+BATTLETECH,game,0.0,False,19361,56.95,78.0,Harebrained Schemes,Paradox Interactive,23635,4783,Action/ Adventure/ Strategy,1978
+FINAL FANTASY XV WINDOWS EDITION,game,0.0,False,35233,43.95,0.0,Square Enix,Square Enix,38267,7989,RPG,801
+Yakuza 0,game,0.0,False,48010,24.95,86.0,Ryu Ga Gotoku Studio,SEGA,57457,2775,Action/ Adventure/ RPG,982
+Pathfinder: Kingmaker - Enhanced Plus Edition,game,0.0,False,24197,28.95,73.0,Owlcat Games,Prime Matter,23792,6615,Adventure/ RPG,1594
+The Escapists 2,game,0.0,False,21476,28.95,75.0,Team17/ Mouldy Toof Studios,Team17,24555,2581,Indie/ Simulation/ Strategy,630
+Mirror,game,0.0,False,74950,2.95,0.0,KAGAMI WORKS,Paradise Project,80419,2554,Adventure/ Indie/ RPG,191
+They Are Billions,game,0.0,False,38682,42.95,77.0,Numantian Games,Numantian Games,36811,6454,Strategy,3780
+Car Mechanic Simulator 2018,game,0.0,False,41948,29.5,0.0,Red Dot Games,PlayWay S.A.,42049,4201,Racing/ Simulation,443
+Slay the Spire,game,0.0,False,115193,35.95,89.0,Mega Crit Games,Mega Crit Games,131689,2850,Indie/ Strategy,10404
+Jurassic World Evolution,game,0.0,False,45183,63.0,69.0,Frontier Developments,Frontier Developments,44515,6783,Simulation/ Strategy,442
+Raft,game,0.0,False,235807,28.95,0.0,Redbeet Interactive,Axolot Games,259383,17458,Adventure/ Indie/ Simulation,12458
+Hand Simulator,game,0.0,False,28047,2.95,0.0,HFM Games,HFM Games,29985,5690,Simulation,81
+CS2D,game,0.0,True,0,0.0,0.0,Unreal Software,Unreal Software,7970,883,Action/ Casual/ Free to Play/ Indie,55
+Tricolour Lovestory,game,0.0,False,24156,2.95,0.0,HL-Galgame,SakuraGame,22543,3387,Adventure/ Casual/ Indie,69
+BattleBit Remastered,game,0.0,False,62713,23.0,0.0,SgtOkiDoki/ Vilaskis/ TheLiquidHorse,SgtOkiDoki,62056,6848,Action/ Massively Multiplayer/ Early Access,49792
+AMID EVIL,game,0.0,False,5203,28.95,85.0,Indefatigable,New Blood Interactive,5546,299,Action/ Adventure/ Indie,25
+Farm Together,game,0.0,False,15948,29.5,0.0,Milkstone Studios,Milkstone Studios,18760,1144,Casual/ Indie/ Simulation,1453
+World War 3,game,0.0,True,28941,0.0,0.0,The Farm 51,Wishlist Games/ The 4 Winds Entertainment,28229,23966,Action/ Free to Play,473
+Stick Fight: The Game,game,0.0,False,88652,7.5,0.0,Landfall West,Landfall,103418,6896,Action/ Casual/ Indie,909
+MudRunner,game,0.0,False,24389,5.79,0.0,Saber Interactive,Focus Entertainment,26164,2768,Simulation,581
+DRAGON BALL FighterZ,game,0.0,False,44581,84.95,85.0,Arc System Works,BANDAI NAMCO Entertainment,56653,5961,Action,1223
+CODE VEIN,game,14.0,False,36866,74.95,72.0,Bandai Namco Studios,Bandai Namco Entertainment,42501,7038,Action/ RPG,579
+OUTRIDERS,game,18.0,False,44458,54.95,0.0,People Can Fly,Square Enix,38942,20098,Action/ Adventure/ RPG,323
+Bless Online,game,0.0,False,7267,0.0,0.0,NEOWIZ BLESS STUDIO,NEOWIZ,3744,6258,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG,0
+GRIS,game,0.0,False,56107,21.95,84.0,Nomada Studio,Devolver Digital,62364,2203,Adventure/ Indie,86
+Hell Let Loose,game,0.0,False,67826,44.81,79.0,Team17,Team17,85240,19146,Action/ Indie/ Massively Multiplayer/ Simulation/ Strategy,6792
+DiRT Rally 2.0,game,0.0,False,26228,19.99,84.0,Codemasters,Codemasters/ Electronic Arts,29856,4451,Racing/ Simulation/ Sports,1145
+Doki Doki Literature Club!,game,0.0,True,389,0.0,0.0,Team Salvato,Team Salvato,182828,6548,Casual/ Free to Play/ Indie,614
+SCP: Secret Laboratory,game,0.0,True,0,0.0,0.0,Northwood Studios,Northwood Studios,152349,13949,Action/ Free to Play,9017
+Kingdom Two Crowns,game,0.0,False,16312,7.37,0.0,Stumpy,Raw Fury,6244,819,Adventure/ Indie/ Simulation/ Strategy,1789
+Planet Zoo,game,0.0,False,59273,64.95,81.0,Frontier Developments,Frontier Developments,63955,6605,Casual/ Simulation/ Strategy,5181
+Thief Simulator,game,0.0,False,22110,4.42,0.0,Noble Muffins,PlayWay S.A.,20666,2916,Action/ Adventure/ Indie/ Simulation,760
+BLOCKPOST,game,0.0,True,0,0.0,0.0,Skullcap Studios,Skullcap Studios,11883,4068,Action/ Free to Play/ Indie,67
+Overcooked! 2,game,0.0,False,36626,35.95,81.0,Ghost Town Games Ltd./ Team17,Team17,46149,4807,Action/ Casual/ Indie,4724
+Post Scriptum,game,0.0,False,14965,42.0,0.0,Periscope Games,Offworld Industries,15079,4751,Action/ Indie/ Massively Multiplayer/ Simulation/ Strategy,270
+Operation: Harsh Doorstop,game,0.0,True,0,0.0,0.0,Drakeling Labs,Drakeling Labs,4619,2111,Action/ Casual/ Free to Play/ Indie/ Simulation/ Strategy/ Early Access,375
+Freddy Fazbear's Pizzeria Simulator,game,0.0,True,0,0.0,0.0,Scott Cawthon,Scott Cawthon,22945,1445,Free to Play/ Indie/ Simulation,281
+Phasmophobia,game,0.0,False,466431,19.95,0.0,Kinetic Games,Kinetic Games,553510,18974,Action/ Indie/ Early Access,20600
+Tales of Arise,game,0.0,False,22561,41.98,84.0,Bandai Namco Studios Inc.,Bandai Namco Entertainment,26857,3154,Action/ RPG,667
+Dead Frontier 2,game,0.0,True,0,0.0,0.0,Creaky Corpse Ltd,Creaky Corpse Ltd,16072,6501,Action/ Free to Play/ Indie/ Massively Multiplayer/ RPG,1048
+Shadow of the Tomb Raider: Definitive Edition,game,15.0,False,53112,0.0,77.0,Eidos-Montréal/ Crystal Dynamics/ Nixxes/ Feral Interactive (Mac)/ Feral interactive (Linux),Crystal Dynamics/ Feral Interactive (Mac)/ Feral interactive (Linux),56295,10730,Action/ Adventure,858
+A Plague Tale: Innocence,game,0.0,False,46840,10.99,81.0,Asobo Studio,Focus Entertainment,50129,3454,Action/ Adventure,682
+Outer Wilds,game,0.0,False,45662,36.95,85.0,Mobius Digital,Annapurna Interactive,49232,2332,Action/ Adventure,963
+Ring of Elysium,game,0.0,True,718,0.0,0.0,Aurora Studio,TCH Scarlet Limited,74638,25897,Action/ Free to Play/ Massively Multiplayer,267
+Albion Online,game,0.0,True,1799,0.0,72.0,Sandbox Interactive GmbH,Sandbox Interactive GmbH,49509,12780,Free to Play/ Massively Multiplayer/ RPG,13998
+Russian Fishing 4,game,0.0,True,0,0.0,0.0,FishSoft/ LLC,FishSoft/ LLC,24793,7914,Adventure/ Casual/ Free to Play/ Massively Multiplayer/ RPG/ Simulation/ Sports,11153
+War Robots,game,0.0,True,0,0.0,0.0,Pixonic,Pixonic,11373,6779,Action/ Free to Play,1706
+Muse Dash,game,0.0,False,83369,4.5,0.0,peropero,hasuhasu,86142,4857,Action/ Casual/ Indie,2149
+Project Winter,game,0.0,False,13093,14.5,0.0,Other Ocean Interactive,Other Ocean Group,15329,3133,Action/ Adventure/ Casual/ Indie/ Strategy,144
+Total War: THREE KINGDOMS,game,0.0,False,63728,30.59,85.0,Creative Assembly,SEGA/ Feral Interactive (Mac)/ Feral Interactive (Linux),68498,27458,Action/ Strategy,8477
+The Riftbreaker,game,0.0,False,13402,44.95,83.0,EXOR Studios,EXOR Studios/ Surefire.Games,13145,1238,Action/ Adventure/ Indie/ RPG/ Simulation/ Strategy,741
+DOOM Eternal,game,17.0,False,153979,39.99,88.0,id Software,Bethesda Softworks,159545,16015,Action,1524
+Ironsight,game,0.0,True,0,0.0,0.0,WipleGames Inc./,WipleGames Inc./,14793,5588,Action/ Free to Play,405
+Farming Simulator 19,game,0.0,False,58032,27.95,73.0,Giants Software,Giants Software,64633,3948,Simulation,4802
+Neon Abyss,game,0.0,False,17421,28.95,0.0,Veewo Games,Team17/ Yooreka Studio (China),18227,2616,Action/ Adventure/ Indie/ RPG,361
+LET IT DIE,game,15.0,True,0,0.0,0.0,GRASSHOPPER MANUFACTURE INC./ SUPERTRICK GAMES/ Inc.,GungHo Online Entertainment America/ Inc.,3833,1359,Action/ Free to Play,125
+Radical Heights,game,0.0,False,0,0.0,0.0,Boss Key Productions,Boss Key Productions,6111,3837,Action/ Adventure/ Free to Play/ Indie/ Massively Multiplayer/ Early Access,0
+Supraland,game,0.0,False,8434,28.95,85.0,Supra Games,Supra Games,10282,501,Action/ Adventure/ Indie/ RPG,87
+Age of Empires II: Definitive Edition,game,0.0,False,112691,22.95,84.0,Forgotten Empires/ Tantalus Media/ Wicked Witch/ World's Edge,Xbox Game Studios,120155,6628,Strategy,18511
+Green Hell,game,0.0,False,43521,21.57,78.0,Creepy Jar,Creepy Jar,51090,7756,Action/ Adventure/ Indie/ Simulation,2822
+JUMP FORCE,game,0.0,False,16835,0.0,60.0,Spike Chunsoft Co./ Ltd.,BANDAI NAMCO Entertainment,16580,5922,Action,57
+Totally Accurate Battlegrounds,game,0.0,True,15683,0.0,0.0,Landfall,Landfall,70357,9392,Action/ Free to Play/ Indie,20
+BONEWORKS,game,0.0,False,31769,43.95,72.0,Stress Level Zero,Stress Level Zero,31114,2637,Action/ Adventure/ Indie/ Simulation,125
+ATLAS,game,0.0,False,36067,42.95,0.0,Grapeshot Games/ Instinct Games,Grapeshot Games,19849,21819,Action/ Adventure/ Massively Multiplayer/ RPG/ Early Access,1306
+太吾绘卷 The Scroll Of Taiwu,game,0.0,False,45958,28.95,0.0,ConchShip Games,ConchShip Games,39468,17347,Adventure/ Casual/ Indie/ RPG/ Strategy/ Early Access,1246
+NBA 2K19,game,0.0,False,15659,0.0,76.0,Visual Concepts,2K,8931,13916,Simulation/ Sports,292
+Super Animal Royale,game,0.0,True,6448,0.0,0.0,Pixile,Modus Games,34553,2233,Action/ Adventure/ Casual/ Free to Play/ Indie/ Massively Multiplayer,1076
+KurtzPel,game,0.0,True,0,0.0,0.0,KOG,KOG,21468,13330,Action/ Free to Play/ Early Access,97
+The Awesome Adventures of Captain Spirit,game,0.0,True,0,0.0,79.0,DONTNOD Entertainment,Square Enix,12088,956,Adventure/ Free to Play,20
+Subnautica: Below Zero,game,0.0,False,73030,44.99,0.0,Unknown Worlds Entertainment,Unknown Worlds Entertainment,72295,7022,Adventure/ Indie,2003
+DRAGON BALL Z: KAKAROT,game,0.0,False,32185,22.48,73.0,CyberConnect2 Co. Ltd.,Bandai Namco Entertainment Inc.,39503,2890,Action/ RPG,1084
+Tribes of Midgard,game,0.0,False,13930,29.95,0.0,Norsfell,Gearbox Publishing,14206,4402,Action/ Adventure/ Indie/ RPG,667
+Control Ultimate Edition,game,15.0,False,28911,59.95,85.0,Remedy Entertainment,505 Games,33562,4672,Action/ Adventure,540
+Ultimate Custom Night,game,0.0,True,0,0.0,0.0,Scott Cawthon,Scott Cawthon,46753,2229,Action/ Free to Play/ Indie,716
+Football Manager 2019,game,0.0,False,7373,0.0,86.0,Sports Interactive,SEGA,10794,1659,Simulation/ Sports,1534
+Pummel Party,game,0.0,False,35896,19.95,0.0,Rebuilt Games,Rebuilt Games,40096,4956,Action/ Casual/ Indie,1901
+Noita,game,0.0,False,50772,28.95,0.0,Nolla Games,Nolla Games,52659,2592,Action/ Adventure/ Indie/ RPG/ Simulation,2502
+Resident Evil 2,game,18.0,False,92207,13.73,89.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,133195,3862,Action,1554
+CRSED: F.O.A.D.,game,0.0,True,0,0.0,0.0,Darkflow Software,Gaijin Distribution KFT,29934,7809,Action/ Free to Play/ Massively Multiplayer,188
+Valheim,game,0.0,False,353377,28.95,0.0,Iron Gate AB,Coffee Stain Publishing,390383,21007,Action/ Adventure/ Indie/ RPG/ Early Access,24476
+Creative Destruction,game,0.0,False,702,0.0,0.0,NetEase Games,NetEase Games,14772,4095,Action/ Adventure/ Casual/ Massively Multiplayer,3
+Last Epoch,game,0.0,False,19325,50.95,0.0,Eleventh Hour Games,Eleventh Hour Games,17911,3490,Action/ Adventure/ Indie/ RPG/ Early Access,978
+Grand Theft Auto IV: Complete Edition,game,0.0,False,111213,0.0,90.0,Rockstar North/ Rockstar Toronto,Rockstar Games,104006,26205,Action/ Adventure,0
+Century: Age of Ashes,game,0.0,True,1256,0.0,0.0,Playwing LTD,Playwing LTD,11822,4007,Action/ Free to Play/ Indie,173
+Modern Combat 5,game,0.0,True,0,0.0,0.0,Gameloft,Gameloft,3085,2588,Action/ Free to Play/ Massively Multiplayer,75
+音灵 INVAXION,game,0.0,False,5546,0.0,0.0,Nanjing AQUATRAX,bilibili,3358,2866,Casual/ Indie/ Racing,0
+Back 4 Blood,game,18.0,False,36112,89.95,77.0,Turtle Rock Studios,Warner Bros. Games,31451,16452,Action,2046
+Unheard - Voices of Crime,game,0.0,False,25620,14.5,72.0,NEXT Studios,NEXT Studios/ 505 Games,26753,970,Indie/ RPG/ Simulation,184
+Among Us,game,0.0,False,585674,5.24,85.0,Innersloth,Innersloth,610775,54647,Casual,8154
+Resident Evil 3,game,15.0,False,48088,15.8,77.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,58039,14444,Action,597
+Bright Memory,game,0.0,False,29091,11.5,0.0,FYQD-Studio,FYQD-Studio/ PLAYISM,29192,2748,Action/ Adventure/ Indie,10
+Bloons TD 6,game,0.0,False,233766,19.95,0.0,Ninja Kiwi,Ninja Kiwi,258528,6766,Strategy,14590
+Grounded,game,0.0,False,46286,49.95,83.0,Obsidian Entertainment,Xbox Game Studios,53950,7089,Action/ Adventure,5695
+Pacify,game,0.0,False,28579,7.5,0.0,Shawn Hitchcock,Hitchcock Games,32831,4786,Action/ Adventure/ Casual/ Indie/ Strategy,278
+Mortal Kombat 11,game,18.0,False,60851,49.99,82.0,NetherRealm Studios/ QLOC/ Shiver,Warner Bros. Games/ Warner Bros. Interactive Entertainment,71096,10215,Action,4153
+Halo: The Master Chief Collection,game,14.0,False,191165,129.0,0.0,343 Industries/ Splash Damage/ Ruffian Games/ Bungie/ Saber Interactive,Xbox Game Studios,194338,15659,Action,6683
+A Dance of Fire and Ice,game,0.0,False,51480,8.5,0.0,7th Beat Games,7th Beat Games/ indienova,51833,3332,Indie,2363
+The Ascent,game,15.0,False,15349,44.95,0.0,Neon Giant,Curve Games,14156,4786,Action/ Adventure/ Indie/ RPG,344
+Hogwarts Legacy,game,0.0,False,153099,89.95,83.0,Avalanche Software,Warner Bros. Games,194248,17247,Action/ Adventure/ RPG,12939
+嗜血印 Bloody Spell,game,0.0,False,26667,35.95,0.0,艺龙游戏,艺龙游戏,27045,3339,Action/ Adventure/ Indie/ RPG,225
+eFootball  PES 2020,game,0.0,False,8352,0.0,0.0,Konami Digital Entertainment,Konami Digital Entertainment,18634,7652,Sports,451
+Sniper Elite 5,game,0.0,False,9645,23.78,79.0,Rebellion,Rebellion,9757,2482,Action/ Adventure,2524
+Mafia II: Definitive Edition,game,0.0,False,13164,39.98,0.0,Hangar 13/ D3T,2K,13666,5751,Action/ Adventure,669
+Mafia: Definitive Edition,game,15.0,False,44863,39.98,0.0,Hangar 13,2K,50833,7633,Action/ Adventure,1141
+Dota Underlords,game,0.0,True,0,0.0,0.0,Valve,Valve,74207,15910,Casual/ Free to Play/ Strategy,2005
+Superliminal,game,0.0,False,19556,28.95,0.0,Pillow Castle,Pillow Castle,22010,1237,Action/ Adventure,90
+Wolfenstein: Youngblood,game,0.0,False,9674,24.95,69.0,Machine Games/ Arkane Studios,Bethesda Softworks,5452,6633,Action,99
+Ori and the Will of the Wisps,game,0.0,False,106234,39.95,88.0,Moon Studios GmbH,Xbox Game Studios,110817,3958,Action,1623
+Crucible Beta,game,0.0,False,0,0.0,56.0,Relentless Studios,Amazon Games,4698,6226,Action/ Free to Play,0
+New World,game,0.0,False,221012,58.5,70.0,Amazon Games,Amazon Games,181111,76993,Action/ Adventure/ Massively Multiplayer/ RPG,19460
+Destiny 2,game,0.0,True,121382,0.0,83.0,Bungie,Bungie,456218,98833,Action/ Adventure/ Free to Play,51592
+Baldur's Gate 3,game,18.0,False,62394,59.99,0.0,Larian Studios,Larian Studios,60173,7432,Adventure/ RPG/ Strategy/ Early Access,19743
+Scribble It!,game,0.0,True,0,0.0,0.0,Detach Entertainment,Detach Entertainment,5919,967,Casual/ Free to Play/ Indie,144
+ONE PIECE: PIRATE WARRIORS 4,game,0.0,False,11056,74.95,0.0,Koei Tecmo,BANDAI NAMCO Entertainment,12815,1108,Action,1861
+NBA 2K20,game,0.0,False,46882,0.0,74.0,Visual Concepts,2K,30460,30433,Simulation/ Sports,698
+The Henry Stickmin Collection,game,0.0,False,36255,10.75,0.0,PuffballsUnited,Innersloth,38216,519,Adventure/ Casual/ Indie,244
+Inscryption,game,0.0,False,87141,28.95,0.0,Daniel Mullins Games,Devolver Digital,91208,2790,Adventure/ Indie/ Strategy,1257
+Solasta: Crown of the Magister,game,0.0,False,15375,43.95,0.0,Tactical Adventures,Tactical Adventures,15220,2151,Adventure/ RPG/ Strategy,2304
+Football Manager 2020,game,0.0,False,17094,0.0,84.0,Sports Interactive,SEGA,28309,3427,Simulation/ Sports,2618
+Persona 4 Golden,game,0.0,False,55297,29.95,87.0,ATLUS,SEGA,61638,1841,RPG,1227
+People Playground,game,0.0,False,187088,14.5,0.0,mestiez,Studio Minus,195982,2476,Action/ Casual/ Indie/ Simulation,9985
+RISK: Global Domination,game,0.0,True,108,0.0,0.0,SMG Studio,SMG Studio,26055,5750,Casual/ Free to Play/ Strategy,2743
+Medieval Dynasty,game,0.0,False,26126,49.95,73.0,Render Cube,Toplitz Productions,28444,2915,Action/ Adventure/ RPG/ Simulation,4376
+Ghostrunner,game,15.0,False,38330,44.95,81.0,One More Level/ 3D Realms/ Slipgate Ironworks™/ All in! Games,505 Games,47936,4414,Action,672
+Total War: WARHAMMER III,game,0.0,False,52525,89.95,85.0,CREATIVE ASSEMBLY/ Feral Interactive,SEGA/ Feral Interactive,54578,18460,Action/ Strategy,24255
+Ready or Not,game,0.0,False,91864,54.95,0.0,VOID Interactive,VOID Interactive,103180,10072,Action/ Adventure/ Indie/ Early Access,5349
+Hades,game,0.0,False,212348,36.5,93.0,Supergiant Games,Supergiant Games,226675,3448,Action/ Indie/ RPG,4468
+Not For Broadcast,game,0.0,False,7867,36.5,82.0,NotGames,tinyBuild,9004,515,Adventure/ Indie/ Simulation,42
+Skul: The Hero Slayer,game,0.0,False,38186,28.95,80.0,SOUTHPAW GAMES,NEOWIZ,40520,3005,Action/ Indie,1515
+OMORI,game,0.0,False,52611,19.99,87.0,OMOCAT/ LLC,OMOCAT/ LLC,57065,1298,Adventure/ Indie/ RPG,897
+Fallout 76,game,15.0,False,45285,54.95,0.0,Bethesda Game Studios,Bethesda Softworks,63234,24110,RPG,9770
+Crusader Kings III,game,0.0,False,61458,69.95,91.0,Paradox Development Studio,Paradox Interactive,86493,7487,RPG/ Simulation/ Strategy,17962
+Teardown,game,0.0,False,69483,44.95,80.0,Tuxedo Labs,Tuxedo Labs,71035,2697,Action/ Indie/ Simulation/ Strategy,2879
+Sea of Thieves 2023 Edition,game,0.0,False,250073,49.45,0.0,Rare Ltd,Xbox Game Studios,261815,28561,Action/ Adventure,17285
+Resident Evil 3: Raccoon City Demo,game,15.0,True,0,0.0,0.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,9042,1062,Action,18
+Red Dead Redemption 2,game,0.0,False,394223,98.96,93.0,Rockstar Games,Rockstar Games,389044,41124,Action/ Adventure,40453
+Bright Memory: Infinite,game,0.0,False,31611,28.95,0.0,FYQD-Studio,FYQD-Studio/ PLAYISM,32256,2617,Action/ Indie,65
+Stay Out,game,0.0,True,0,0.0,0.0,MOBITECH LLC,MOBITECH LLC,9883,7279,Action/ Free to Play/ Indie/ Massively Multiplayer/ RPG/ Early Access,1376
+Pathfinder: Wrath of the Righteous - Enhanced Edition,game,0.0,False,22184,55.99,83.0,Owlcat Games,META Publishing/ Owlcat Games,23665,4490,Adventure/ Indie/ RPG/ Strategy,4008
+Resident Evil Village,game,18.0,False,64838,28.49,83.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,91277,4038,Action,985
+NARAKA: BLADEPOINT,game,0.0,True,166945,0.0,0.0,24 Entertainment,NetEase Games Global,125742,65451,Action/ Adventure/ Massively Multiplayer,192346
+Builders of Egypt: Prologue,game,0.0,True,0,0.0,0.0,Strategy Labs,Strategy Labs/ PlayWay S.A./ CreativeForge Games,2888,1039,Free to Play/ Indie/ Simulation/ Early Access,11
+Mr. Sun's Hatbox,game,0.0,False,207,16.46,0.0,Kenny Sun,Raw Fury,212,31,Action/ Indie,6
+Gunfire Reborn,game,0.0,False,75913,28.95,0.0,Duoyi Games,Duoyi Games,82851,5409,Action/ Adventure/ Indie/ RPG,4292
+Detroit: Become Human,game,0.0,False,74817,29.99,80.0,Quantic Dream,Quantic Dream,82143,4953,Action/ Adventure,1429
+A Way Out,game,0.0,False,31752,7.99,78.0,Hazelight,Electronic Arts,43037,5948,Action/ Adventure/ Indie,1295
+NBA 2K21,game,0.0,False,28395,0.0,0.0,Visual Concepts,2K,16302,22933,Simulation/ Sports,567
+ULTRAKILL,game,0.0,False,63540,35.95,0.0,"Arsi ""Hakita"" Patala",New Blood Interactive,68909,1222,Action/ Indie/ Early Access,2213
+Halo Infinite,game,0.0,True,27749,0.0,0.0,343 Industries,Xbox Game Studios,112041,48064,Action/ Free to Play,4773
+ELDEN RING,game,0.0,False,519504,89.95,94.0,FromSoftware Inc.,FromSoftware Inc./ Bandai Namco Entertainment,636852,55198,Action/ RPG,39123
+Farming Simulator 22,game,0.0,False,36776,42.99,0.0,Giants Software,Giants Software,46049,4556,Simulation,32470
+Microsoft Flight Simulator 40th Anniversary Edition,game,0.0,False,47007,99.95,91.0,Asobo Studio,Xbox Game Studios,38364,10722,Simulation,7570
+Bless Unleashed,game,0.0,True,205,0.0,0.0,VALOFE,VALOFE,15588,14378,Action/ Free to Play/ Massively Multiplayer/ RPG,761
+Shop Titans,game,0.0,True,0,0.0,0.0,Kabam Games/ Inc.,Kabam Games/ Inc.,10964,3044,Adventure/ Casual/ Free to Play/ RPG/ Simulation,5116
+Days Gone,game,0.0,False,43936,74.95,0.0,Bend Studio,PlayStation PC LLC,59690,4640,Action/ Adventure,2921
+eFootball PES 2021 SEASON UPDATE,game,0.0,False,20661,0.0,0.0,Konami Digital Entertainment,Konami Digital Entertainment,28346,8727,Sports,2340
+Football Manager 2021,game,0.0,False,14291,0.0,0.0,Sports Interactive,SEGA,22202,1563,Simulation/ Sports,4325
+DEVOUR,game,0.0,False,48996,7.5,0.0,Straight Back Games,Straight Back Games,58470,5242,Indie,1307
+Monster Hunter Stories 2: Wings of Ruin,game,0.0,False,9914,29.47,82.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,11910,2540,Adventure/ RPG,331
+Loop Hero,game,0.0,False,29270,21.95,0.0,Four Quarters,Devolver Digital,29318,2086,Indie/ RPG/ Strategy,384
+Guild Wars 2,game,0.0,True,153,0.0,90.0,ArenaNet®,NCSOFT,9245,1213,Adventure/ Free to Play/ Massively Multiplayer/ RPG,4205
+GWENT: The Witcher Card Game,game,0.0,True,0,0.0,80.0,CD PROJEKT RED,CD PROJEKT RED,21923,4903,Free to Play/ RPG/ Strategy,969
+Tiny Tina's Wonderlands,game,0.0,False,9072,29.68,0.0,Gearbox Software,2K,9012,2681,Action/ Adventure/ RPG,2780
+Helltaker,game,0.0,True,386,0.0,0.0,vanripper,vanripper,110583,2373,Adventure/ Free to Play/ Indie,131
+Forza Horizon 4,game,0.0,False,174663,99.95,0.0,Playground Games,Xbox Game Studios,168343,20609,Racing,8344
+暖雪 Warm Snow,game,0.0,False,25794,25.95,0.0,BadMudStudio,bilibili,25074,1948,Action/ Adventure/ Indie/ RPG,703
+Cult of the Lamb,game,0.0,False,48896,22.99,0.0,Massive Monster,Devolver Digital,51675,3115,Action/ Adventure/ Indie/ Strategy,1494
+Sons Of The Forest,game,0.0,False,124233,43.95,0.0,Endnight Games Ltd,Newnight,114876,23082,Action/ Adventure/ Indie/ Simulation/ Early Access,11986
+Stray,game,0.0,False,109049,44.95,0.0,BlueTwelve Studio,Annapurna Interactive,118108,3212,Adventure/ Indie,677
+Action Taimanin,game,0.0,True,0,0.0,0.0,LiLith,Infini-Brain inc.,13365,2566,Action/ Adventure/ Free to Play/ RPG,1206
+Old School RuneScape,game,0.0,True,0,0.0,0.0,Jagex Ltd,Jagex Ltd,12499,1308,Adventure/ Free to Play/ Massively Multiplayer/ RPG,1298
+Ring of Fire: Prologue,game,0.0,True,0,0.0,0.0,de Fault/ Chard,Far Few Giants,13,2,Adventure/ Casual/ Free to Play/ Indie/ Simulation,0
+Warhammer 40/000: Darktide,game,0.0,False,60648,41.96,0.0,Fatshark,Fatshark,39169,32082,Action/ Adventure/ Indie,3302
+Dyson Sphere Program,game,0.0,False,64801,28.95,0.0,Youthcat Studio,Gamera Games,69852,1584,Indie/ Simulation/ Strategy/ Early Access,4060
+Soulworker,game,0.0,True,0,0.0,0.0,Lion Games Co./ Ltd.,Lion Games Co./ Ltd.,7073,2564,Action/ Free to Play/ Massively Multiplayer/ RPG,1227
+Saving Grace,game,0.0,False,0,2.95,0.0,Thomas JC Ironmonger,Ironmonger Games,27,2,Action/ Adventure/ Indie/ Strategy,0
+Spellbreak,game,0.0,False,0,0.0,0.0,Proletariat/ Inc.,Proletariat/ Inc.,11894,1922,Action/ Adventure/ Free to Play/ RPG,2
+Red Dead Online,game,0.0,False,48282,29.95,0.0,Rockstar Games,Rockstar Games,47321,8880,Action/ Adventure,2916
+World of Tanks,game,0.0,True,335,0.0,80.0,Wargaming Group Limited,Wargaming Group Limited,57732,9467,Action/ Free to Play/ Massively Multiplayer/ Simulation,3577
+Krunker,game,0.0,True,0,0.0,0.0,FRVR,FRVR,18340,4450,Action/ Casual/ Free to Play,318
+Swords of Legends Online,game,0.0,False,4287,0.0,0.0,Wangyuan Shengtang Entertainment Technology CO./ 上海烛龙信息科技有限公司,Gameforge 4D GmbH,3912,1923,Free to Play/ Massively Multiplayer/ RPG,3
+It Takes Two,game,0.0,False,112179,19.98,89.0,Hazelight,Electronic Arts,124065,5879,Action/ Adventure,8926
+MONSTER HUNTER RISE,game,0.0,False,48903,22.79,86.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,66147,10441,Action,13571
+Cookie Clicker,game,0.0,False,45479,7.5,0.0,Orteil/ DashNet,Playsaurus,46931,1363,Casual/ Indie/ Simulation/ Strategy,13924
+Age of Empires IV: Anniversary Edition,game,0.0,False,40115,49.95,81.0,Relic Entertainment/ World's Edge,Xbox Game Studios,46183,7245,Strategy,9280
+鬼谷八荒 Tale of Immortal,game,0.0,False,185498,28.95,0.0,鬼谷工作室,鬼谷工作室/ Lightning Games,112532,106031,Action/ Adventure/ Indie/ RPG/ Simulation,6712
+Draw & Guess,game,0.0,False,26489,4.5,0.0,Acureus,Acureus,24998,4636,Casual/ Indie,1451
+FIFA 22,game,0.0,False,99052,0.0,0.0,EA Canada &amp; EA Romania,Electronic Arts,94507,23162,Simulation/ Sports,8509
+PICO PARK,game,0.0,False,16511,7.5,0.0,TECOPARK,TECOPARK,18934,1833,Action/ Casual/ Indie,566
+Capcom Arcade Stadium,game,0.0,True,292,0.0,0.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,1878,1666,Action/ Free to Play,29
+Orcs Must Die! 3,game,0.0,False,8146,39.95,0.0,Robot Entertainment,Robot Entertainment,9531,1688,Action/ Adventure/ Indie/ Strategy,510
+OpenTTD,game,0.0,True,0,0.0,0.0,OpenTTD,OpenTTD,9524,396,Casual/ Free to Play/ Indie/ Simulation,721
+Aliens: Fireteam Elite,game,15.0,False,15468,39.95,0.0,Cold Iron Studios,Cold Iron Studios/ Focus Entertainment,15474,3918,Action/ RPG,480
+Forza Horizon 5,game,0.0,False,120230,89.95,0.0,Playground Games,Xbox Game Studios,113851,15424,Action/ Adventure/ Racing/ Simulation/ Sports,16158
+Football Manager 2022,game,0.0,False,13321,0.0,85.0,Sports Interactive,SEGA,19176,1550,Simulation/ Sports,11976
+God of War,game,15.0,False,75048,74.95,93.0,Santa Monica Studio,PlayStation PC LLC,103155,3297,Action/ Adventure/ RPG,2730
+Lost Ark,game,15.0,True,64418,0.0,0.0,Smilegate RPG,Amazon Games,139071,54997,Action/ Adventure/ Free to Play/ Massively Multiplayer/ RPG,26631
+V Rising,game,0.0,False,62490,28.95,0.0,Stunlock Studios,Stunlock Studios,63205,8545,Action/ Adventure/ Massively Multiplayer/ Early Access,6587
+Heart of a Warrior,game,0.0,False,0,15.5,0.0,Techworld Communication,Techworld Communication ,0,1,Action/ Adventure/ Indie/ RPG,0
+HITMAN 3,game,15.0,False,12769,51.25,87.0,IO Interactive A/S,IO Interactive A/S,12220,2337,Action/ Adventure,1694
+Stumble Guys,game,0.0,True,10605,0.0,0.0,Scopely,Scopely,75005,11311,Action/ Casual/ Indie,10553
+Poppy Playtime,game,0.0,True,27326,0.0,0.0,Mob Entertainment,Mob Entertainment,41012,11203,Action/ Adventure/ Indie,505
+Capcom Arcade 2nd Stadium,game,0.0,True,112,0.0,0.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,332,160,Action/ Free to Play,12
+Vampire Survivors,game,0.0,False,191828,7.49,87.0,poncle,poncle,198798,2662,Action/ Casual/ Indie/ RPG,6441
+Marvel’s Spider-Man Remastered,game,0.0,False,51735,59.99,0.0,Insomniac Games/ Nixxes Software,PlayStation PC LLC,69230,2496,Action/ Adventure/ Casual,4916
+MultiVersus,game,0.0,False,4866,0.0,78.0,Player First Games,Warner Bros. Games,80842,13157,Action/ Free to Play,70
+Chivalry 2,game,18.0,False,23305,56.95,82.0,Torn Banner Studios,Tripwire Presents,22937,5103,Action,2240
+Mirror 2: Project X,game,0.0,False,113208,2.95,0.0,KAGAMI Ⅱ WORKs,NIJICO,30016,87529,Adventure/ Indie/ RPG/ Early Access,36
+DAVE THE DIVER,game,0.0,False,42303,29.99,89.0,MINTROCKET,MINTROCKET,42172,1260,Adventure/ Casual/ Indie/ RPG/ Simulation,34929
+Deep Night Runner,game,0.0,False,0,0.59,0.0,DODRECK,kazakovstudios,14,2,Indie,1
+NBA 2K23,game,0.0,False,32125,89.95,0.0,Visual Concepts,2K,25536,14983,Simulation/ Sports,29003
+Brotato,game,0.0,False,42508,7.5,0.0,Blobfish,Blobfish,42583,1412,Action/ Casual/ Indie/ RPG,13787
+Escape the Backrooms,game,0.0,False,26628,14.5,0.0,Fancy Games,Fancy Games,28624,3371,Indie/ Early Access,3524
+Broken Edge,game,0.0,False,239,10.15,0.0,TREBUCHET,Fast Travel Games,222,44,Action,55
+Inside the Backrooms,game,0.0,False,29745,10.0,0.0,MrFatcat,MrFatcat/ Dropsiick,30414,5454,Adventure/ Indie/ Early Access,1412
+Resident Evil 4,game,18.0,False,53998,85.49,0.0,CAPCOM Co./ Ltd.,CAPCOM Co./ Ltd.,83027,2093,Action/ Adventure,3121
